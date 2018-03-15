@@ -1979,88 +1979,39 @@ body {
 .cid-qMbt1ZuhZG .dropdown-item:hover {
   color: #4284df;
 }
-.cid-qMbuKpby9q {
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+.cid-qMncwWqCDg {
+  background-image: url("../../../assets/images/-mg-6709-2000x3000.jpg");
 }
-.cid-qMbuKpby9q .column-content {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-  width: 100%;
-  float: right;
+.cid-qMncwWqCDg .slider-text-two {
+  background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+  display: inline-block;
+  outline: 1px solid rgba(0, 0, 0, 0.2);
+  outline-offset: -15px;
+  padding: 65px 50px;
   position: relative;
+  text-align: center;
 }
-.cid-qMbuKpby9q .text-content .btn-bgr {
-  z-index: 0;
+.cid-qMncwWqCDg .mbr-section-title {
+  color: #232323;
 }
-.cid-qMbuKpby9q .mbr-overlay {
-  background: linear-gradient(#d6173f -10%, #00113e 75%);
+.cid-qMncwWqCDg .mbr-section-title span {
+  color: #ffbc00;
 }
-.cid-qMbuKpby9q .container-full-width {
-  position: relative;
-}
-.cid-qMbuKpby9q .text-content {
-  width: 100%;
-  padding: 0 30px;
-  margin: 0 auto;
-}
-.cid-qMbuKpby9q .layer {
-  display: none;
-  height: 101%;
-  position: absolute;
-  right: 49.9%;
-  top: 0;
-  bottom: 0;
-}
-.cid-qMbuKpby9q .layer path {
-  fill: #ffffff;
-}
-@media (min-width: 576px) {
-  .cid-qMbuKpby9q .text-content {
-    width: 540px;
-  }
-  .cid-qMbuKpby9q .column-content {
-    width: 100%;
-  }
-  .cid-qMbuKpby9q .layer {
-    display: none;
-  }
-}
-@media (min-width: 768px) {
-  .cid-qMbuKpby9q .text-content {
-    width: 720px;
-  }
-}
-@media (min-width: 992px) {
-  .cid-qMbuKpby9q .text-content {
-    width: 480px;
-    margin: 0;
-  }
-  .cid-qMbuKpby9q .column-content {
-    width: 50%;
-  }
-  .cid-qMbuKpby9q .layer {
-    display: block;
-  }
-}
-@media (min-width: 1200px) {
-  .cid-qMbuKpby9q .text-content {
-    width: 570px;
-  }
+.cid-qMncwWqCDg .mbr-text {
+  color: #232323;
+  letter-spacing: 5px;
+  font-weight: 100;
 }
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .cid-qMbuKpby9q .container-full-width .layer {
-    right: 2.6rem;
-    height: 33rem;
-  }
-  .cid-qMbuKpby9q .column-content {
-    height: 33rem;
+  .cid-qMncwWqCDg .slider-text-two {
+    outline: 15px solid rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.2);
   }
 }
 .cid-qMbHSOWU9C {
-  padding-top: 15px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/annie-spratt-370971-2000x3177.jpg");
 }
 .cid-qMbHSOWU9C .main {
   flex-direction: row-reverse;
