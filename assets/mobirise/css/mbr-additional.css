@@ -1289,39 +1289,39 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qNAPo2cE9r .nav-item:focus,
-.cid-qNAPo2cE9r .nav-link:focus {
+.cid-qNBhBpaxJe .nav-item:focus,
+.cid-qNBhBpaxJe .nav-link:focus {
   outline: none;
 }
-.cid-qNAPo2cE9r .navbar {
+.cid-qNBhBpaxJe .navbar {
   min-height: 77px;
   transition: all .3s;
   background: #ffffff;
 }
-.cid-qNAPo2cE9r .navbar.opened {
+.cid-qNBhBpaxJe .navbar.opened {
   transition: all .3s;
   background: #ffffff !important;
 }
-.cid-qNAPo2cE9r .navbar .dropdown-item {
+.cid-qNBhBpaxJe .navbar .dropdown-item {
   padding: .25rem 1.5rem;
 }
-.cid-qNAPo2cE9r .navbar .navbar-collapse {
+.cid-qNBhBpaxJe .navbar .navbar-collapse {
   justify-content: flex-end;
   z-index: 1;
 }
-.cid-qNAPo2cE9r .navbar.collapsed.opened .dropdown-menu {
+.cid-qNBhBpaxJe .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
-.cid-qNAPo2cE9r .navbar.collapsed .dropdown-menu {
+.cid-qNBhBpaxJe .navbar.collapsed .dropdown-menu {
   background: transparent !important;
 }
-.cid-qNAPo2cE9r .navbar.collapsed .dropdown-menu .dropdown-submenu {
+.cid-qNBhBpaxJe .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
-.cid-qNAPo2cE9r .navbar.collapsed .dropdown-menu .dropdown-item:after {
+.cid-qNBhBpaxJe .navbar.collapsed .dropdown-menu .dropdown-item:after {
   right: auto;
 }
-.cid-qNAPo2cE9r .navbar.collapsed .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+.cid-qNBhBpaxJe .navbar.collapsed .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
   margin-left: .25rem;
   border-top: 0.35em solid;
   border-right: 0.35em solid transparent;
@@ -1329,32 +1329,32 @@ body {
   border-bottom: 0;
   top: 55%;
 }
-.cid-qNAPo2cE9r .navbar.collapsed ul.navbar-nav li {
+.cid-qNBhBpaxJe .navbar.collapsed ul.navbar-nav li {
   margin: auto;
 }
-.cid-qNAPo2cE9r .navbar.collapsed .dropdown-menu .dropdown-item {
+.cid-qNBhBpaxJe .navbar.collapsed .dropdown-menu .dropdown-item {
   padding: .25rem 1.5rem;
   text-align: center;
 }
-.cid-qNAPo2cE9r .navbar.collapsed .icons-menu {
+.cid-qNBhBpaxJe .navbar.collapsed .icons-menu {
   padding-left: 0;
   padding-top: .5rem;
   padding-bottom: .5rem;
 }
 @media (max-width: 991px) {
-  .cid-qNAPo2cE9r .navbar.opened .dropdown-menu {
+  .cid-qNBhBpaxJe .navbar.opened .dropdown-menu {
     top: 0;
   }
-  .cid-qNAPo2cE9r .navbar .dropdown-menu {
+  .cid-qNBhBpaxJe .navbar .dropdown-menu {
     background: transparent !important;
   }
-  .cid-qNAPo2cE9r .navbar .dropdown-menu .dropdown-submenu {
+  .cid-qNBhBpaxJe .navbar .dropdown-menu .dropdown-submenu {
     left: 0 !important;
   }
-  .cid-qNAPo2cE9r .navbar .dropdown-menu .dropdown-item:after {
+  .cid-qNBhBpaxJe .navbar .dropdown-menu .dropdown-item:after {
     right: auto;
   }
-  .cid-qNAPo2cE9r .navbar .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
+  .cid-qNBhBpaxJe .navbar .dropdown-menu .dropdown-toggle[data-toggle="dropdown-submenu"]:after {
     margin-left: .25rem;
     border-top: 0.35em solid;
     border-right: 0.35em solid transparent;
@@ -1362,37 +1362,37 @@ body {
     border-bottom: 0;
     top: 55%;
   }
-  .cid-qNAPo2cE9r .navbar .navbar-logo img {
+  .cid-qNBhBpaxJe .navbar .navbar-logo img {
     height: 3.8rem !important;
   }
-  .cid-qNAPo2cE9r .navbar ul.navbar-nav li {
+  .cid-qNBhBpaxJe .navbar ul.navbar-nav li {
     margin: auto;
   }
-  .cid-qNAPo2cE9r .navbar .dropdown-menu .dropdown-item {
+  .cid-qNBhBpaxJe .navbar .dropdown-menu .dropdown-item {
     padding: .25rem 1.5rem;
     text-align: center;
   }
-  .cid-qNAPo2cE9r .navbar .navbar-brand {
+  .cid-qNBhBpaxJe .navbar .navbar-brand {
     flex-shrink: initial;
     word-break: break-word;
   }
-  .cid-qNAPo2cE9r .navbar .icons-menu {
+  .cid-qNBhBpaxJe .navbar .icons-menu {
     padding-left: 0;
     padding-top: .5rem;
     padding-bottom: .5rem;
   }
 }
-.cid-qNAPo2cE9r .navbar.navbar-short {
+.cid-qNBhBpaxJe .navbar.navbar-short {
   background: #ffffff !important;
   min-height: 60px;
 }
-.cid-qNAPo2cE9r .navbar.navbar-short .navbar-logo img {
+.cid-qNBhBpaxJe .navbar.navbar-short .navbar-logo img {
   height: 3rem !important;
 }
-.cid-qNAPo2cE9r .navbar.navbar-short .navbar-brand {
+.cid-qNBhBpaxJe .navbar.navbar-short .navbar-brand {
   padding: 0;
 }
-.cid-qNAPo2cE9r .navbar-brand {
+.cid-qNBhBpaxJe .navbar-brand {
   display: flex;
   flex-shrink: 0;
   align-items: center;
@@ -1402,43 +1402,43 @@ body {
   word-break: break-word;
   z-index: 1;
 }
-.cid-qNAPo2cE9r .navbar-brand .navbar-caption {
+.cid-qNBhBpaxJe .navbar-brand .navbar-caption {
   line-height: inherit !important;
 }
-.cid-qNAPo2cE9r .navbar-brand .navbar-logo a {
+.cid-qNBhBpaxJe .navbar-brand .navbar-logo a {
   outline: none;
 }
-.cid-qNAPo2cE9r .dropdown-item.active,
-.cid-qNAPo2cE9r .dropdown-item:active {
+.cid-qNBhBpaxJe .dropdown-item.active,
+.cid-qNBhBpaxJe .dropdown-item:active {
   background-color: transparent;
 }
-.cid-qNAPo2cE9r .navbar-expand-lg .navbar-nav .nav-link {
+.cid-qNBhBpaxJe .navbar-expand-lg .navbar-nav .nav-link {
   padding: 0;
 }
-.cid-qNAPo2cE9r .nav-dropdown .link.dropdown-toggle {
+.cid-qNBhBpaxJe .nav-dropdown .link.dropdown-toggle {
   margin-right: 1.667em;
 }
-.cid-qNAPo2cE9r .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
+.cid-qNBhBpaxJe .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
   margin-right: 0;
   padding: 0.667em 1.667em;
 }
-.cid-qNAPo2cE9r .navbar.navbar-expand-lg .dropdown .dropdown-menu {
+.cid-qNBhBpaxJe .navbar.navbar-expand-lg .dropdown .dropdown-menu {
   background: #ffffff;
 }
-.cid-qNAPo2cE9r .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
+.cid-qNBhBpaxJe .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
   left: 100%;
 }
-.cid-qNAPo2cE9r .navbar .dropdown.open > .dropdown-menu {
+.cid-qNBhBpaxJe .navbar .dropdown.open > .dropdown-menu {
   display: block;
 }
-.cid-qNAPo2cE9r ul.navbar-nav {
+.cid-qNBhBpaxJe ul.navbar-nav {
   flex-wrap: wrap;
 }
-.cid-qNAPo2cE9r .navbar-buttons {
+.cid-qNBhBpaxJe .navbar-buttons {
   text-align: center;
 }
-.cid-qNAPo2cE9r button.navbar-toggler {
+.cid-qNBhBpaxJe button.navbar-toggler {
   outline: none;
   width: 31px;
   height: 20px;
@@ -1447,7 +1447,7 @@ body {
   position: relative;
   align-self: center;
 }
-.cid-qNAPo2cE9r button.navbar-toggler .hamburger span {
+.cid-qNBhBpaxJe button.navbar-toggler .hamburger span {
   position: absolute;
   right: 0;
   width: 30px;
@@ -1455,73 +1455,73 @@ body {
   border-right: 5px;
   background-color: #232323;
 }
-.cid-qNAPo2cE9r button.navbar-toggler .hamburger span:nth-child(1) {
+.cid-qNBhBpaxJe button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
   transition: all .2s;
 }
-.cid-qNAPo2cE9r button.navbar-toggler .hamburger span:nth-child(2) {
+.cid-qNBhBpaxJe button.navbar-toggler .hamburger span:nth-child(2) {
   top: 8px;
   transition: all .15s;
 }
-.cid-qNAPo2cE9r button.navbar-toggler .hamburger span:nth-child(3) {
+.cid-qNBhBpaxJe button.navbar-toggler .hamburger span:nth-child(3) {
   top: 8px;
   transition: all .15s;
 }
-.cid-qNAPo2cE9r button.navbar-toggler .hamburger span:nth-child(4) {
+.cid-qNBhBpaxJe button.navbar-toggler .hamburger span:nth-child(4) {
   top: 16px;
   transition: all .2s;
 }
-.cid-qNAPo2cE9r nav.opened .hamburger span:nth-child(1) {
+.cid-qNBhBpaxJe nav.opened .hamburger span:nth-child(1) {
   top: 8px;
   width: 0;
   opacity: 0;
   right: 50%;
   transition: all .2s;
 }
-.cid-qNAPo2cE9r nav.opened .hamburger span:nth-child(2) {
+.cid-qNBhBpaxJe nav.opened .hamburger span:nth-child(2) {
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
   transition: all .25s;
 }
-.cid-qNAPo2cE9r nav.opened .hamburger span:nth-child(3) {
+.cid-qNBhBpaxJe nav.opened .hamburger span:nth-child(3) {
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
   transition: all .25s;
 }
-.cid-qNAPo2cE9r nav.opened .hamburger span:nth-child(4) {
+.cid-qNBhBpaxJe nav.opened .hamburger span:nth-child(4) {
   top: 8px;
   width: 0;
   opacity: 0;
   right: 50%;
   transition: all .2s;
 }
-.cid-qNAPo2cE9r .navbar-dropdown {
+.cid-qNBhBpaxJe .navbar-dropdown {
   padding: .5rem 1rem;
   position: fixed;
 }
-.cid-qNAPo2cE9r a.nav-link {
+.cid-qNBhBpaxJe a.nav-link {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.cid-qNAPo2cE9r .mbr-iconfont {
+.cid-qNBhBpaxJe .mbr-iconfont {
   font-size: 1.5rem;
   padding-right: .5rem;
 }
-.cid-qNAPo2cE9r .icons-menu {
+.cid-qNBhBpaxJe .icons-menu {
   flex-wrap: wrap;
   display: flex;
   justify-content: center;
   padding-left: 1rem;
   text-align: center;
 }
-.cid-qNAPo2cE9r .icons-menu span {
+.cid-qNBhBpaxJe .icons-menu span {
   font-size: 20px;
   color: #232323;
 }
-.cid-qNAPo2cE9r .nav-link:hover,
-.cid-qNAPo2cE9r .dropdown-item:hover,
-.cid-qNAPo2cE9r .icons-menu .mbr-iconfont:hover {
+.cid-qNBhBpaxJe .nav-link:hover,
+.cid-qNBhBpaxJe .dropdown-item:hover,
+.cid-qNBhBpaxJe .icons-menu .mbr-iconfont:hover {
   color: #c1c1c1 !important;
 }
 .cid-qMncwWqCDg {
@@ -2560,10 +2560,10 @@ padding-bottom: (@paddingBottom * 15px);
 @showVideoPopUp: true;
 @showDescription: true;
 @showButtons: false;
-@uname__14: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/background3-1920x603.jpg";
+@uname__14: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/background3-1920x603.jpg";
 @uname__15: true;
 @uname__16: #510938;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/background3-1920x603.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/background3-1920x603.jpg";
 @bg-type: "image";
 @bg-color-value: #510938;
 @bg-parallax: true;
@@ -2800,10 +2800,10 @@ background-color: @bgColor;
 @showSubtitle: false;
 @showText: false;
 @showButtons: true;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-2-2000x1125.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-2-2000x1125.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-2-2000x1125.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-2-2000x1125.jpg";
 @bg-type: "image";
 @bg-color-value: #0f7699;
 @bg-parallax: true;
@@ -3599,7 +3599,7 @@ nav.opened .hamburger span {
 @showSubtitle: false;
 @showText: false;
 @showButtons: false;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/nelly-volkovich-2000x1333.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/nelly-volkovich-2000x1333.jpg";
 @uname__11: true;
 @uname__12: #ffffff;
 @bg-value: #ffffff;
@@ -3627,10 +3627,10 @@ padding-bottom: (@paddingBottom * 15px);
 @showSubtitle: false;
 @showText: false;
 @showButtons: false;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/nelly-volkovich-2000x1333.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/nelly-volkovich-2000x1333.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/nelly-volkovich-2000x1333.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/nelly-volkovich-2000x1333.jpg";
 @bg-type: "image";
 @bg-color-value: #0f7699;
 @bg-parallax: true;
@@ -3655,7 +3655,7 @@ padding-bottom: (@paddingBottom * 15px);
 @showSubtitle: false;
 @showText: false;
 @showButtons: false;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/nelly-volkovich-2000x1333.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/nelly-volkovich-2000x1333.jpg";
 @uname__11: true;
 @uname__12: #ffffff;
 @bg-value: #ffffff;
@@ -4483,7 +4483,7 @@ padding-bottom: (@paddingBottom * 15px);
 @showListTitle: true;
 @showIcons: true;
 @listItemsAmount: "3";
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/background1.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/background1.jpg";
 @uname__11: true;
 @uname__12: #efefef;
 @bg-value: #efefef;
@@ -4618,7 +4618,7 @@ a:not([href]):not([tabindex]) {
 @iconsAmount: "4";
 @gray: false;
 @cardsAmount: "3";
-@uname__11: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/background1-2.jpg";
+@uname__11: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/background1-2.jpg";
 @uname__12: true;
 @uname__13: #efefef;
 @bg-value: #efefef;
@@ -4704,7 +4704,7 @@ h5.mbr-text {
 @iconsAmount: "4";
 @gray: false;
 @cardsAmount: "2";
-@uname__11: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/background1-2.jpg";
+@uname__11: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/background1-2.jpg";
 @uname__12: true;
 @uname__13: #efefef;
 @bg-value: #efefef;
@@ -4785,10 +4785,10 @@ h5.mbr-text {
 @showSubtitle: false;
 @showText: false;
 @showButtons: true;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-2000x1250.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-2000x1250.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-2000x1250.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-2000x1250.jpg";
 @bg-type: "image";
 @bg-color-value: #0f7699;
 @bg-parallax: true;
@@ -4820,7 +4820,7 @@ DIV {
 @showForm: true;
 @inputColor: #000000;
 @reveal: false;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/background1-3.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/background1-3.jpg";
 @uname__11: false;
 @uname__12: #ffffff;
 @bg-value: #ffffff;
@@ -5609,10 +5609,10 @@ padding-bottom: (@paddingBottom * 15px);
 @showSubtitle: true;
 @showText: false;
 @showButtons: false;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-5-1620x1080.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-5-1620x1080.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-5-1620x1080.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-5-1620x1080.jpg";
 @bg-type: "image";
 @bg-color-value: #0f7699;
 @bg-parallax: true;
@@ -5841,10 +5841,10 @@ H2 {
 @showSubtitle: false;
 @showText: false;
 @showButtons: true;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-2000x1600.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-2000x1600.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-2000x1600.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-2000x1600.jpg";
 @bg-type: "image";
 @bg-color-value: #0f7699;
 @bg-parallax: true;
@@ -6665,10 +6665,10 @@ padding-bottom: (@paddingBottom * 15px);
 @showSubtitle: true;
 @showText: false;
 @showButtons: false;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/stefan-kunze-90443-thin-2000x805.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/stefan-kunze-90443-thin-2000x805.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/stefan-kunze-90443-thin-2000x805.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/stefan-kunze-90443-thin-2000x805.jpg";
 @bg-type: "image";
 @bg-color-value: #0f7699;
 @bg-parallax: true;
@@ -6701,7 +6701,7 @@ H2 {
 @showVideoPopUp: true;
 @showDescription: true;
 @showButtons: true;
-@uname__14: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/annie-spratt-370971-1995x960.jpg";
+@uname__14: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/annie-spratt-370971-1995x960.jpg";
 @uname__15: false;
 @uname__16: #efefef;
 @bg-value: #efefef;
@@ -6850,10 +6850,10 @@ background-color: @bgColor;
 @paddingBottom: 10;
 @showTitle: true;
 @showSubtitle: true;
-@uname__13: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/artem-sapegin-2000x1333.jpg";
+@uname__13: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/artem-sapegin-2000x1333.jpg";
 @uname__14: true;
 @uname__15: #000000;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/artem-sapegin-2000x1333.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/artem-sapegin-2000x1333.jpg";
 @bg-type: "image";
 @bg-color-value: #000000;
 @bg-parallax: true;
@@ -6913,7 +6913,7 @@ background-color: @bgColor;
 @showButtons: false;
 @cardColor: #ffffdd;
 @cardOpacity: 0.9;
-@uname__12: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/background4.jpg";
+@uname__12: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/background4.jpg";
 @uname__13: true;
 @uname__14: #ffffff;
 @bg-value: #ffffff;
@@ -6996,10 +6996,10 @@ padding-bottom: (@paddingBottom * 15px);
 @activeTabColor1: #232323;
 @reverseContent: false;
 @bootstrapTabs: "6";
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-4-1620x1080.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-4-1620x1080.jpg";
 @uname__11: true;
 @uname__12: #f7f7f7;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/mbr-4-1620x1080.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/mbr-4-1620x1080.jpg";
 @bg-type: "image";
 @bg-color-value: #f7f7f7;
 @bg-parallax: true;
@@ -7095,7 +7095,7 @@ padding-bottom: (@paddingBottom * 15px);
 @showSubtitle: false;
 @showText: false;
 @showButtons: true;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/stefan-kunze-90443-thin-2000x805.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/stefan-kunze-90443-thin-2000x805.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
 @bg-value: #0f7699;
@@ -7127,7 +7127,7 @@ DIV {
 @showText: true;
 @showButtons: false;
 @reverseContent: true;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/background1-1.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/background1-1.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
 @bg-value: #0f7699;
@@ -7955,7 +7955,7 @@ nav.opened .hamburger span {
 @showSubtitle: false;
 @showText: false;
 @showButtons: false;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/nelly-volkovich-2000x1333.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/nelly-volkovich-2000x1333.jpg";
 @uname__11: true;
 @uname__12: #ffffff;
 @bg-value: #ffffff;
@@ -7984,7 +7984,7 @@ padding-bottom: (@paddingBottom * 15px);
 @showText: true;
 @showButtons: false;
 @reverseContent: true;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/background1-1.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/background1-1.jpg";
 @uname__11: true;
 @uname__12: #ffffff;
 @bg-value: #ffffff;
@@ -8056,10 +8056,10 @@ padding-bottom: (@paddingBottom * 15px);
 @showSubtitle: false;
 @showText: false;
 @showButtons: true;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/img-extform1-bg-4-1920x1280.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/img-extform1-bg-4-1920x1280.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/img-extform1-bg-4-1920x1280.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/img-extform1-bg-4-1920x1280.jpg";
 @bg-type: "image";
 @bg-color-value: #0f7699;
 @bg-parallax: true;
@@ -8864,176 +8864,6 @@ background-color: @bgColor;
 }
 }
 
-.cid-qMrKHfN0mF {
-@fullScreen: true;
-@paddingTop: 6;
-@paddingBottom: 6;
-@showTitle: true;
-@showSubtitle: true;
-@showButtons: true;
-@showVideoPopUp: true;
-@showArrow: false;
-@uname__13: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/-mg-6709-1900x2054.jpg";
-@uname__14: true;
-@uname__15: #efefef;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/-mg-6709-1900x2054.jpg";
-@bg-type: "image";
-@bg-color-value: #efefef;
-@bg-parallax: true;
-@overlay: true;
-@overlayColor: #ffffff;
-@overlayOpacity: 0.9;
-
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 15px);
-  padding-bottom: (@paddingBottom * 15px);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-.mbr-icofont {
-  font-size: 48px;
-  color: #353535;
-}
-.show-modal span {
-  cursor: pointer;
-  background-color: #ffffff;
-  border-radius: 50%;
-  width: 6rem;
-  height: 6rem;
-  position: relative;
-  display: inline-block;
-  transition: all 0.25s;
-  &:before {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-  }
-}
-.mbr-figure {
-  a {
-    width: 100px;
-    height: 100px;
-    line-height: 100px;
-    font-size: 100px;
-    &:before {
-      width: 100px;
-      height: 100px;
-    }
-  }
-  width: 100px;
-  height: 100px;
-  margin-bottom: 10px;
-  margin: auto;
-  transition: transform 1s;
-  cursor: pointer;
-  &:hover {
-    transform: scale(1.15);
-    transition: transform 1s;
-  }
-}
-.mbri-play:before {
-  left: 55% !important;
-}
-.form-inline {
-  justify-content: center;
-  -webkit-justify-content: center;
-  .form-group {
-    padding: 0.5rem;
-  }
-  input {
-    text-align: center;
-  }
-}
-h3 {
-  color: #ffffff;
-  text-align: center;
-  font-weight: 300;
-}
-.modalWindow {
-  position: fixed;
-  z-index: 5000;
-  display: none;
-  left: 0;
-  top: 0;
-  background-color: rgba(61, 61, 61, 0.65);
-  width: 100%;
-  height: 100%;
-  & .modalWindow-container {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: -o-center;
-    & .modalWindow-video-container {
-      display: inline-block;
-      width: 100%;
-      .modalWindow-video {
-        margin: auto;
-      }
-    }
-  }
-}
-a.close {
-  position: absolute;
-  right: 4vw;
-  top: 4vh;
-  color: #ffffff;
-  z-index: 5000000;
-  font-size: 37px;
-  background: #000;
-  padding: 20px;
-  border-radius: 50%;
-  &:hover {
-    color: #ffffff;
-  }
-}
-@media (max-width: 500px) {
-  .modalWindow-video {
-    width: 80%;
-    height: 200px;
-    position: relative;
-  }
-}
-@media (min-width: 500px) and (max-width: 768px) {
-  .modalWindow-video {
-    width: 90%;
-    height: 340px;
-    position: relative;
-  }
-}
-@media (min-width: 768px) and (max-width: 850px) {
-  .modalWindow-video {
-    width: 700px;
-    height: 395px;
-    position: relative;
-  }
-}
-@media (min-width: 850px) and (max-width: 1300px) {
-  .modalWindow-video {
-    width: 800px;
-    height: 452px;
-    position: relative;
-  }
-}
-@media (min-width: 1300px) {
-  .modalWindow-video {
-    width: 1200px;
-    height: 675px;
-    position: relative;
-  }
-}
-.mbr-section-subtitle {
-  color: #232323;
-}
-H1 {
-  color: #c4bc3b;
-}
-}
-
 .cid-qMrMLgQmOc {
 @paddingTop: 4;
 @paddingBottom: 4;
@@ -9097,10 +8927,10 @@ background: @bgColor;
 @showButtons: true;
 @showVideoPopUp: true;
 @showArrow: false;
-@uname__13: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/-mg-6709-1900x2054.jpg";
+@uname__13: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/-mg-6709-1900x2054.jpg";
 @uname__14: true;
 @uname__15: #efefef;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/-mg-6709-1900x2054.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/-mg-6709-1900x2054.jpg";
 @bg-type: "image";
 @bg-color-value: #efefef;
 @bg-parallax: true;
@@ -9265,10 +9095,10 @@ H1 {
 @showSubtitle: false;
 @showText: false;
 @showButtons: true;
-@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/img-extform1-bg-5-1920x1280.jpg";
+@uname__10: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/img-extform1-bg-5-1920x1280.jpg";
 @uname__11: true;
 @uname__12: #0f7699;
-@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New%20Pics//assets/images/img-extform1-bg-5-1920x1280.jpg";
+@bg-value: "file:///Users/missionharibol/Annat/Websites/TMY%20New//assets/images/img-extform1-bg-5-1920x1280.jpg";
 @bg-type: "image";
 @bg-color-value: #0f7699;
 @bg-parallax: true;
