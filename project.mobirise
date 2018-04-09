@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TMY MB4 New",
-    "currentPage": "hva-skjer.html",
+    "currentPage": "email-signup.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3659,23 +3659,6 @@
           ],
           "_name": "pro.custom-html",
           "_anchor": "custom-html-23"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "{JS_CODE_0}{JS_CODE_1}",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-25",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script>",
-            "<script type=\"text/javascript\">require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us2.list-manage.com\",\"uuid\":\"d88f27c253d243b4b85912640\",\"lid\":\"7b09181118\"}) })</script>"
-          ]
         },
         {
           "_styles": {
