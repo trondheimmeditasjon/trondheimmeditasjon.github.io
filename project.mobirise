@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TMY MB4 New",
-    "currentPage": "om-oss.html",
+    "currentPage": "yoga-visdom.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4963,7 +4963,7 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Meditation & Yoga",
+                "tags": "Meditation - Yoga",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-5-9-27-28-857955.jpg",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/193053132",
@@ -4972,7 +4972,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "GAURANGA MEDITATION<br>Balakhilya das",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Who Am I?",
@@ -5035,7 +5035,7 @@
                 "active": false
               },
               {
-                "tags": "Meditation & Yoga",
+                "tags": "Meditation - Yoga",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-5-9-36-44-476570.jpg",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/232363221",
@@ -5056,7 +5056,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "ON FAMILY LIFE<br>Balakhilya das",
-                "active": false
+                "active": true
               }
             ]
           }
