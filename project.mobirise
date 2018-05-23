@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TMY MB4 New",
-    "currentPage": "yogaasanas.html",
+    "currentPage": "yoga.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -11477,7 +11477,7 @@
         }
       ]
     },
-    "yogaasanas.html": {
+    "yoga.html": {
       "settings": {
         "title": "Yoga Asanas | Trondheim Meditasjon & Yoga",
         "meta_descr": "",
