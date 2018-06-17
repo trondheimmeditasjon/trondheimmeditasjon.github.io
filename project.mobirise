@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TMY MB4 New",
-    "currentPage": "om-oss.html",
+    "currentPage": "cookies.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,8 +44,8 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-82905239-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-82905239-1');\r\n</script>\r\n\r\n\r\n\r\n<script src=\"https://cc.cdn.civiccomputing.com/8.0/cookieControl-8.0.min.js\"></script>\r\n<script>\r\n    var config = {\r\n        apiKey: '9727561a02dc7cfee1841693aa65bc30948609e3',\r\n        product: 'COMMUNITY',\r\n        optionalCookies: [\r\n            {\r\n                    name: 'besøksstatistikk',\r\n                    label: 'Besøksstatistikk',\r\n                    description: '',\r\n                    cookies: [],\r\n                    onAccept : function(){},\r\n                    onRevoke: function(){}\r\n                },{\r\n                    name: 'preferanser',\r\n                    label: 'Preferanser',\r\n                    description: '',\r\n                    cookies: [],\r\n                    onAccept : function(){},\r\n                    onRevoke: function(){}\r\n                }\r\n        ],\r\n\r\n        position: 'RIGHT',\r\n        theme: 'LIGHT'\r\n    };\r\n    \r\n    CookieControl.load( config );\r\n</script>",
-    "cookiesAlert": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-82905239-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-82905239-1');\r\n</script>",
+    "cookiesAlert": "Vi bruker cookies for å gi deg den beste opplevelsen. Les vår <a href='cookies.html'>Cookie Policy</a>.",
     "siteUrl": "undefined",
     "gdpr": "Ved å fortsette er du enig i vår <a href='personvernerklaering.html'>Personvernerklaering</a>.",
     "siteFonts": [
