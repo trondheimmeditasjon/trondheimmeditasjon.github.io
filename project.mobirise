@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TMY MB4 New",
-    "currentPage": "cookies.html",
+    "currentPage": "personvernerklaering.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-82905239-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-82905239-1');\r\n</script>",
-    "cookiesAlert": "Vi bruker cookies for å gi deg den beste opplevelsen. Les vår <a href='cookies.html'>Cookie Policy</a>.",
+    "cookiesAlert": "Vi bruker informasjonskapsler for å gi deg den beste opplevelsen. Les vår <a href='personvernerklaering.html'>Personvernerklaering</a>.",
     "siteUrl": "undefined",
     "gdpr": "Ved å fortsette er du enig i vår <a href='personvernerklaering.html'>Personvernerklaering</a>.",
     "siteFonts": [
