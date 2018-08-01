@@ -13115,6 +13115,27 @@ body {
 .cid-qXB94bGKrW .mbr-section-subtitle {
   color: #c1c1c1;
 }
+.cid-qZtWdAf92b {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #f9eef1;
+}
+.cid-qZtWdAf92b .image-block {
+  margin: auto;
+}
+.cid-qZtWdAf92b figcaption {
+  position: relative;
+}
+.cid-qZtWdAf92b figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qZtWdAf92b .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qXB89Ne0c4 {
   padding-top: 90px;
   padding-bottom: 90px;
