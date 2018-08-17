@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TMY MB4 Newest",
-    "currentPage": "index-en.html",
+    "currentPage": "atma.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.6.7",
-    "uniqCompNum": 465,
+    "uniqCompNum": 498,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -770,7 +770,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -1527,7 +1527,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
@@ -2149,7 +2149,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 10
       },
       "components": [
         {
@@ -3755,7 +3755,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 20
+        "order": 18
       },
       "components": [
         {
@@ -4221,7 +4221,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 23
+        "order": 21
       },
       "components": [
         {
@@ -4668,7 +4668,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 18
+        "order": 16
       },
       "components": [
         {
@@ -5373,7 +5373,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 14
       },
       "components": [
         {
@@ -6114,7 +6114,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 22
+        "order": 20
       },
       "components": [
         {
@@ -7318,7 +7318,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
@@ -8075,7 +8075,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -8698,7 +8698,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 15
+        "order": 13
       },
       "components": [
         {
@@ -9322,7 +9322,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 17
+        "order": 15
       },
       "components": [
         {
@@ -10064,7 +10064,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 19
+        "order": 17
       },
       "components": [
         {
@@ -10752,7 +10752,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 21
+        "order": 19
       },
       "components": [
         {
@@ -11219,7 +11219,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 12
       },
       "components": [
         {
@@ -11835,7 +11835,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 11
       },
       "components": [
         {
@@ -13188,7 +13188,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 8
       },
       "components": [
         {
@@ -13625,7 +13625,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 9
       },
       "components": [
         {
@@ -14057,12 +14057,12 @@
     },
     "atma.html": {
       "settings": {
-        "title": "ATMASFERA Yoga Indie Music | Norway",
-        "meta_descr": "Sincere, striking, sublime - Atmasfera shares more than music. They hybridize ethnic elements, such as ancient mantras in Sanskrit, within a contemporary indie music frame. Diving into the yoga sounds - the forgotten section of yoga - will help you find a deep sense of relaxation within. ",
+        "title": "Atmasfera - Yoga Indie Music | Trondheim",
+        "meta_descr": "Authentic, striking, sublime - Atmasfera shares more than music. They hybridize ethnic elements, such as ancient mantras in Sanskrit, within a contemporary indie music frame. Diving into the yoga sounds - the forgotten section of yoga - will help you find a deep sense of relaxation within. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -14356,7 +14356,7 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-1740x1080.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://player.vimeo.com/video/237196704?autoplay=0&loop=0\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">ATMASFERA<br>Norway 2018</span></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    NORWAY 2018</h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">29 SEPT - 7 OCT</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-danger\" href=\"page23.html#content4-c9\">CONCERT</a> <a class=\"btn btn-md btn-warning\" href=\"https://tikkio.com/tickets/5985-yoga-soundfest-2018\">YOGA SOUNDFEST</a> <a class=\"btn btn-md btn-info\" href=\"page23.html#content4-ch\">ATMA RETREAT</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-1740x1080.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://player.vimeo.com/video/237196704?autoplay=0&loop=0\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">ATMASFERA<br>Norway 2018</span></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    NORWAY 2018</h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">29 SEPT - 7 OCT</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-danger\" href=\"atma.html#content4-ci\">CONCERT</a> <a class=\"btn btn-md btn-warning\" href=\"atma.html#content4-c9\">YOGA SOUNDFEST</a> <a class=\"btn btn-md btn-info\" href=\"atma.html#content4-ch\">ATMA RETREAT</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "r0pVOMYjPi",
           "_anchor": "header2-bp",
           "_protectedParams": [],
@@ -14484,7 +14484,7 @@
             }
           },
           "_name": "features7",
-          "_customHTML": "<section class=\"features7\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\">\n    <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n    <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n    <select title=\"Cards\" name=\"cardsAmount\">\n        <option value=\"1\">1</option>\n        <option value=\"2\">2</option>\n        <option value=\"3\" selected>3</option>\n    </select>\n    <input type=\"checkbox\" title=\"Show Card Title\" name=\"showCardTitle\" checked>\n    <input type=\"checkbox\" title=\"Show Card Subtitle\" name=\"showCardSubtitle\" checked>\n    <input type=\"checkbox\" title=\"Show Underline\" name=\"showUnderline\" checked condition=\"showCardSubtitle || showSubtitle\">\n    <input type=\"color\" title=\"Underline Color\" name=\"underlineColor\" value=\"#878787\" condition=\"(showSubtitle || showCardSubtitle) && showUnderline\">\n    <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n    <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n    <input type=\"color\" title=\"Card Color\" name=\"cardColor\" value=\"#f7f7f7\">\n    <input type=\"range\" inline title=\"Card Opacity\" name=\"cardOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\">\n    \n    <fieldset type=\"background\" name=\"bg\" parallax>\n        <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-8146-2000x1333.jpg\" parallax>\n        <input type=\"color\" title=\"Background Color\" value=\"#f7f7f7\" selected>\n        <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=2jqUN6d6ZyM\">\n    </fieldset>\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ff7f9f\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <h3 class=\"mbr-section-subtitle main-subtitle mbr-fonts-style align-center mbr-lighter\" mbr-class=\"{'pb-3': !showUnderline}\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".main-subtitle\">ATMASFERA EUROPEAN TOUR</h3>\n        <div class=\"underline align-center pb-3\" mbr-if=\"showUnderline && showSubtitle\">\n            <div class=\"line\"></div>\n        </div>\n        <h2 class=\"mbr-section-title main-title mbr-fonts-style align-center\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\" data-app-selector=\".main-title\">NORWAY 2018</h2>\n        <div class=\"row justify-content-center\" mbr-class=\"{'mt-5': showTitle}\">\n            <div class=\"col-md-7 col-lg-4 content-section\">\n                <div class=\"wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc-5812-700x464.jpg\" alt title>\n                    <div class=\"content-block mbr-lighter\">\n                        <div class=\"mbr-overlay\"></div>\n                        <h2 class=\"mbr-section-title card-title mbr-fonts-style align-center\" mbr-class=\"{'pb-3': showCardSubtitle || showText}\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\"><a href=\"page23.html#features4-c7\">Indie Folk Concert</a></h2>\n                        <h3 class=\"mbr-section-subtitle card-subtitle mbr-fonts-style align-center\" mbr-class=\"{'pb-2': showUnderline,\n                                        'pb-4': !showUnderline}\" mbr-theme-style=\"display-4\" mbr-if=\"showCardSubtitle\" data-app-selector=\".card-subtitle, .card-underline\">SATURDAY 29 SEPTEMBER<br><i>TRONDHEIM</i></h3>\n                        <div class=\"underline card-underline align-center pb-3\" mbr-if=\"showUnderline && showCardSubtitle\">\n                            <div class=\"line\"></div>\n                        </div>\n                        <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Sincere, striking, sublime - Atmasfera shares more than music. They hybridize ethnic elements, such as ancient mantras in Sanskrit, within a contemporary indie music frame. <br>\n                        </p>\n                        <div mbr-buttons class=\"mbr-section-btn align-center pt-3\" mbr-theme-style=\"display-7\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-warning-outline\" href=\"page23.html#content4-ci\">INFO</a> <a class=\"btn btn-md btn-black\" href=\"https://tikkio.com/tickets/6078-atmasfera-world-indie-concert\">TICKETS</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-md-7 col-lg-4 content-section\" mbr-if=\"cardsAmount >= 2\">\n                <div class=\"wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/small-1-700x508.jpg\" alt title>\n                    <div class=\"content-block mbr-lighter\">\n                        <div class=\"mbr-overlay\"></div>\n                        <h2 class=\"mbr-section-title card-title mbr-fonts-style align-center\" mbr-class=\"{'pb-3': showCardSubtitle || showText}\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">\n                            <a href=\"page23.html#features3-bs\">Yoga SoundFest</a></h2>\n                        <h3 class=\"mbr-section-subtitle card-subtitle mbr-fonts-style align-center\" mbr-class=\"{'pb-2': showUnderline,\n                                        'pb-4': !showUnderline}\" mbr-theme-style=\"display-4\" mbr-if=\"showCardSubtitle\" data-app-selector=\".card-subtitle, .card-underline\">SUNDAY 30 SEPTEMBER<br><i>TRONDHEIM</i></h3>\n                        <div class=\"underline card-underline align-center pb-3\" mbr-if=\"showUnderline && showCardSubtitle\">\n                            <div class=\"line\"></div>\n                        </div>\n                        <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">The forgotten section of yoga - Music! Dive into the yoga sounds through yoga to live music, deep relaxation, and an interactive Mantra Diving concert. Free of charge.<br></p>\n                        <div mbr-buttons class=\"mbr-section-btn align-center pt-3\" mbr-theme-style=\"display-7\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-warning-outline\" href=\"page23.html#content4-c9\">INFO</a> <a class=\"btn btn-md btn-black\" href=\"https://tikkio.com/tickets/5985-yoga-soundfest-2018\">TICKETS</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-md-7 col-lg-4 content-section\" mbr-if=\"cardsAmount >= 3\">\n                <div class=\"wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/ales-krivec-20582-unsplash-700x464.jpg\" alt title>\n                    <div class=\"content-block mbr-lighter\">\n                        <div class=\"mbr-overlay\"></div>\n                        <h2 class=\"mbr-section-title card-title mbr-fonts-style align-center\" mbr-class=\"{'pb-3': showCardSubtitle || showText}\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\"><a href=\"page23.html#features3-cc\">Atma Retreat</a></h2>\n                        <h3 class=\"mbr-section-subtitle card-subtitle mbr-fonts-style align-center\" mbr-class=\"{'pb-2': showUnderline,\n                                        'pb-4': !showUnderline}\" mbr-theme-style=\"display-4\" mbr-if=\"showCardSubtitle\" data-app-selector=\".card-subtitle, .card-underline\">2-7 OCTOBER<br><i>FEMUNDSMARKA</i></h3>\n                        <div class=\"underline card-underline align-center pb-3\" mbr-if=\"showUnderline && showCardSubtitle\">\n                            <div class=\"line\"></div>\n                        </div>\n                        <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Get inspired to make a change. Join us and the amazing musicians of Atmasfera for a 5-day meditation &amp; yoga retreat. Vegetarian food, nature, and soothing yoga music.<br></p>\n                        <div mbr-buttons class=\"mbr-section-btn align-center pt-3\" mbr-theme-style=\"display-7\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-warning-outline\" href=\"page23.html#content4-ch\">INFO</a> <a class=\"btn btn-md btn-black\" href=\"https://tikkio.com/tickets/5986-yoga-sound-retreat-with-atmasfera\">TICKETS</a></div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features7\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\">\n    <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n    <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n    <select title=\"Cards\" name=\"cardsAmount\">\n        <option value=\"1\">1</option>\n        <option value=\"2\">2</option>\n        <option value=\"3\" selected>3</option>\n    </select>\n    <input type=\"checkbox\" title=\"Show Card Title\" name=\"showCardTitle\" checked>\n    <input type=\"checkbox\" title=\"Show Card Subtitle\" name=\"showCardSubtitle\" checked>\n    <input type=\"checkbox\" title=\"Show Underline\" name=\"showUnderline\" checked condition=\"showCardSubtitle || showSubtitle\">\n    <input type=\"color\" title=\"Underline Color\" name=\"underlineColor\" value=\"#878787\" condition=\"(showSubtitle || showCardSubtitle) && showUnderline\">\n    <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n    <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n    <input type=\"color\" title=\"Card Color\" name=\"cardColor\" value=\"#f7f7f7\">\n    <input type=\"range\" inline title=\"Card Opacity\" name=\"cardOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\">\n    \n    <fieldset type=\"background\" name=\"bg\" parallax>\n        <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-8146-2000x1333.jpg\" parallax>\n        <input type=\"color\" title=\"Background Color\" value=\"#f7f7f7\" selected>\n        <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=2jqUN6d6ZyM\">\n    </fieldset>\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ff7f9f\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <h3 class=\"mbr-section-subtitle main-subtitle mbr-fonts-style align-center mbr-lighter\" mbr-class=\"{'pb-3': !showUnderline}\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".main-subtitle\">ATMASFERA EUROPEAN TOUR</h3>\n        <div class=\"underline align-center pb-3\" mbr-if=\"showUnderline && showSubtitle\">\n            <div class=\"line\"></div>\n        </div>\n        <h2 class=\"mbr-section-title main-title mbr-fonts-style align-center\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\" data-app-selector=\".main-title\">NORWAY 2018</h2>\n        <div class=\"row justify-content-center\" mbr-class=\"{'mt-5': showTitle}\">\n            <div class=\"col-md-7 col-lg-4 content-section\">\n                <div class=\"wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dsc-5812-700x464.jpg\" alt title>\n                    <div class=\"content-block mbr-lighter\">\n                        <div class=\"mbr-overlay\"></div>\n                        <h2 class=\"mbr-section-title card-title mbr-fonts-style align-center\" mbr-class=\"{'pb-3': showCardSubtitle || showText}\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\"><a href=\"atma.html#content4-ci\">Indie Folk Concert</a></h2>\n                        <h3 class=\"mbr-section-subtitle card-subtitle mbr-fonts-style align-center\" mbr-class=\"{'pb-2': showUnderline,\n                                        'pb-4': !showUnderline}\" mbr-theme-style=\"display-4\" mbr-if=\"showCardSubtitle\" data-app-selector=\".card-subtitle, .card-underline\">SATURDAY 29 SEPTEMBER<br><i>TRONDHEIM</i></h3>\n                        <div class=\"underline card-underline align-center pb-3\" mbr-if=\"showUnderline && showCardSubtitle\">\n                            <div class=\"line\"></div>\n                        </div>\n                        <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Sincere, striking, sublime - Atmasfera shares more than music. They hybridize ethnic elements, such as ancient mantras in Sanskrit, within a contemporary indie music frame. <br>\n                        </p>\n                        <div mbr-buttons class=\"mbr-section-btn align-center pt-3\" mbr-theme-style=\"display-7\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-warning-outline\" href=\"atma.html#content4-ci\">INFO</a> <a class=\"btn btn-md btn-black\" href=\"https://tikkio.com/tickets/6078-atmasfera-world-indie-concert\">TICKETS</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-md-7 col-lg-4 content-section\" mbr-if=\"cardsAmount >= 2\">\n                <div class=\"wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/small-1-700x508.jpg\" alt title>\n                    <div class=\"content-block mbr-lighter\">\n                        <div class=\"mbr-overlay\"></div>\n                        <h2 class=\"mbr-section-title card-title mbr-fonts-style align-center\" mbr-class=\"{'pb-3': showCardSubtitle || showText}\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">\n                            <a href=\"atma.html#content4-c9\">Yoga SoundFest</a></h2>\n                        <h3 class=\"mbr-section-subtitle card-subtitle mbr-fonts-style align-center\" mbr-class=\"{'pb-2': showUnderline,\n                                        'pb-4': !showUnderline}\" mbr-theme-style=\"display-4\" mbr-if=\"showCardSubtitle\" data-app-selector=\".card-subtitle, .card-underline\">SUNDAY 30 SEPTEMBER<br><i>TRONDHEIM</i></h3>\n                        <div class=\"underline card-underline align-center pb-3\" mbr-if=\"showUnderline && showCardSubtitle\">\n                            <div class=\"line\"></div>\n                        </div>\n                        <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">The forgotten section of yoga - Music! Dive into the yoga sounds through yoga to live music, deep relaxation, and an interactive Mantra Diving concert. Free of charge.<br></p>\n                        <div mbr-buttons class=\"mbr-section-btn align-center pt-3\" mbr-theme-style=\"display-7\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-warning-outline\" href=\"atma.html#content4-c9\">INFO</a> <a class=\"btn btn-md btn-black\" href=\"https://tikkio.com/tickets/5985-yoga-soundfest-2018\">TICKETS</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-md-7 col-lg-4 content-section\" mbr-if=\"cardsAmount >= 3\">\n                <div class=\"wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/ales-krivec-20582-unsplash-700x464.jpg\" alt title>\n                    <div class=\"content-block mbr-lighter\">\n                        <div class=\"mbr-overlay\"></div>\n                        <h2 class=\"mbr-section-title card-title mbr-fonts-style align-center\" mbr-class=\"{'pb-3': showCardSubtitle || showText}\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\"><a href=\"atma.html#content4-ch\">Atma Retreat</a></h2>\n                        <h3 class=\"mbr-section-subtitle card-subtitle mbr-fonts-style align-center\" mbr-class=\"{'pb-2': showUnderline,\n                                        'pb-4': !showUnderline}\" mbr-theme-style=\"display-4\" mbr-if=\"showCardSubtitle\" data-app-selector=\".card-subtitle, .card-underline\">2-7 OCTOBER<br><i>FEMUNDSMARKA</i></h3>\n                        <div class=\"underline card-underline align-center pb-3\" mbr-if=\"showUnderline && showCardSubtitle\">\n                            <div class=\"line\"></div>\n                        </div>\n                        <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Get inspired to make a change. Join us and the amazing musicians of Atmasfera for a 5-day meditation &amp; yoga retreat. Vegetarian food, nature, and soothing yoga music.<br></p>\n                        <div mbr-buttons class=\"mbr-section-btn align-center pt-3\" mbr-theme-style=\"display-7\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-warning-outline\" href=\"atma.html#content4-ch\">INFO</a> <a class=\"btn btn-md btn-black\" href=\"atma.html#header15-cg\">TICKETS</a></div>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_sourceTheme": "hotelm4",
           "_cid": "r0pVP2Xfp6",
@@ -14536,7 +14536,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#465052\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white\" href=\"atmasfera.html#content4-bz\">MORE TESTIMONIALS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#465052\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white\" href=\"atma.html#content4-bz\">MORE TESTIMONIALS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r0qouiu2eP",
           "_anchor": "content8-cv",
           "_protectedParams": [],
@@ -14662,7 +14662,7 @@
             }
           },
           "_name": "features4",
-          "_customHTML": "<section class=\"features4\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Shw Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>    \n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background1-1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#f7f7f7\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row main\">\n            <div class=\"col-md-6 image-element\">\n                <div mbr-video class=\"mbr-figure\">\n                    <iframe src=\"https://www.youtube.com/watch?v=k4YM09mzdfA&loop=0&autoplay=0\"></iframe>\n                </div>\n            </div>\n            <div class=\"col-md-6 text-element\">\n                <div class=\"text-content\">\n                    <h4 class=\"mbr-section-subtitle mbr-fonts-style mbr-white align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">INSPIRING INDIE FOLK MUSIC</h4><b>\n                    <h2 class=\"mbr-title pt-2 mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-title\">ATMASFERA</h2>\n                    <p class=\"mbr-text pt-3 mbr-light mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text,.mbr-section-btn\"></p><p>\"I feel warm from the inside, even though it's cold outside. The energy from the band... I will leave with a glow inside.\"<br><br><span style=\"font-weight: normal;\">Sincere, striking, yet sublime - Atmasfera shares more than music. Their music style hybridizes ethnic elements, such as ancient mantras in Sanskrit, within a contemporary indie music frame. Similar bands include Fleet Foxes, Bon Iver, Beirut, Mumford &amp; Sons, Of Monsters and Men, etc. Leading the band, the extraordinary twin sisters Yamuna and Kalindi inspire their audience around the world with heart-warming vocals and tunes from flute, keyboard, harmonium, and more. They are accompanied by Timur (drums, darbuka), Janardana (vocals, bass guitar), Dennis (acoustic guitar, dombra), and Sergiy (electric guitar).<br></span></p><p></p>\n                    <div class=\"mbr-section-btn pt-3 align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-black\" href=\"https://tikkio.com/tickets/6078-atmasfera-world-indie-concert\">TICKETS</a> <a class=\"btn btn-md btn-black-outline\" href=\"page23.html#gallery1-c2\">OUR MUSIC</a></div>\n                </b></div><b>\n            </b></div><b>\n        </b></div><b>\n    </b></div><b>          \n</b></section>",
+          "_customHTML": "<section class=\"features4\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Shw Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>    \n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background1-1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#f7f7f7\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row main\">\n            <div class=\"col-md-6 image-element\">\n                <div mbr-video class=\"mbr-figure\">\n                    <iframe src=\"https://www.youtube.com/watch?v=k4YM09mzdfA&loop=0&autoplay=0\"></iframe>\n                </div>\n            </div>\n            <div class=\"col-md-6 text-element\">\n                <div class=\"text-content\">\n                    <h4 class=\"mbr-section-subtitle mbr-fonts-style mbr-white align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">INSPIRING INDIE FOLK MUSIC</h4><b>\n                    <h2 class=\"mbr-title pt-2 mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-title\">ATMASFERA</h2>\n                    <p class=\"mbr-text pt-3 mbr-light mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text,.mbr-section-btn\"></p><p>\"I feel warm from the inside, even though it's cold outside. The energy from the band... I will leave with a glow inside.\"<br><br><span style=\"font-weight: normal;\">Sincere, striking, yet sublime - Atmasfera shares more than music. Their music style hybridizes ethnic elements, such as ancient mantras in Sanskrit, within a contemporary indie music frame. Similar bands include Fleet Foxes, Bon Iver, Beirut, Mumford &amp; Sons, Of Monsters and Men, etc. Leading the band, the extraordinary twin sisters Yamuna and Kalindi inspire their audience around the world with heart-warming vocals and tunes from flute, keyboard, harmonium, and more. They are accompanied by Timur (drums, darbuka), Janardana (vocals, bass guitar), Dennis (acoustic guitar, dombra), and Sergiy (electric guitar).<br></span></p><p></p>\n                    <div class=\"mbr-section-btn pt-3 align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-black\" href=\"https://tikkio.com/tickets/6078-atmasfera-world-indie-concert\">TICKETS</a> <a class=\"btn btn-md btn-black-outline\" href=\"atma.html#gallery1-c2\">OUR MUSIC</a></div>\n                </b></div><b>\n            </b></div><b>\n        </b></div><b>\n    </b></div><b>          \n</b></section>",
           "_anchor": "features4-c7",
           "_isUserblock": true,
           "_sourceTheme": "commercem4",
@@ -15370,7 +15370,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#f7f7f7\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black\" href=\"https://tikkio.com/tickets/5985-yoga-soundfest-2018\">FREE TICKETS</a> <a class=\"btn btn-black-outline\" href=\"page23.html#gallery1-c2\">OUR MUSIC</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#f7f7f7\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black\" href=\"https://tikkio.com/tickets/5985-yoga-soundfest-2018\">FREE TICKETS</a> <a class=\"btn btn-black-outline\" href=\"atma.html#gallery1-c2\">OUR MUSIC</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r0pVP1xpDf",
           "_anchor": "content8-bx",
           "_protectedParams": [],
@@ -15444,7 +15444,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#f7f7f7\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"https://tikkio.com/tickets/5986-yoga-sound-retreat-with-atmasfera\">TICKETS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#f7f7f7\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"atma.html#header15-cg\">TICKETS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content8-ck",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -16067,7 +16067,7 @@
             }
           },
           "_name": "header15",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Form Background\" name=\"bgForm\">\n        <input type=\"color\" title=\"Form Color 1\" name=\"formColor1\" value=\"#ff7f9f\" condition=\"bgForm\">\n        <input type=\"color\" title=\"Form Color 2\" name=\"formColor2\" value=\"#55b4d4\" condition=\"bgForm\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-7096-1600x1066.jpg\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#073b4c\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-right\">\n<div class=\"row\">\n    <div class=\"mbr-white col-lg-8 col-md-7 content-container\">\n        <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">ATMA RETREAT</span></h1>\n        <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Dates: </b>Tuesday 2 Oct - Sunday 7 Oct<br><b>Place:</b> Femundsundet, 2440 Engerdal<br><b>Included: </b>Vegetarian buffet meals, accommodation in double rooms with private bathroom, yoga &amp; meditation classes&nbsp;<br><b>Sign up: </b>Send 1600,- (1400,- students)<br>to Vipps account #100008 (Trondheim Meditasjon &amp; Yoga)<br>or to bank account 8601 568 5141 <br>(mark payment with 'Atma - EMAIL')&nbsp;<br>To get more info, leave your details to the right.&nbsp;<br></p>\n    </div>\n    <div class=\"col-lg-4 col-md-5\">\n    <div class=\"form-container\">\n        <div mbr-form class=\"media-container-column\">\n            <div data-form-alert hidden class=\"align-center\">Thanks! We'll get back to you soon :)</div>\n            <form class=\"mbr-form\" action=\"info@tmy.no\" method=\"post\" name=\"Mobirise Form\">\n                <div data-for=\"name\">\n                    <div class=\"form-group\">\n                        <input type=\"text\" class=\"form-control px-3\" name=\"name\" data-form-field=\"Name\" placeholder=\"Name\" required>\n                    </div>\n                </div>\n                <div data-for=\"email\">\n                    <div class=\"form-group\">\n                        <input type=\"email\" class=\"form-control px-3\" name=\"email\" data-form-field=\"Email\" placeholder=\"Email\" required>\n                    </div>\n                </div>\n                <div data-for=\"phone\">\n                    <div class=\"form-group\">\n                        <input type=\"tel\" class=\"form-control px-3\" name=\"phone\" data-form-field=\"Phone\" placeholder=\"Phone\">\n                    </div>\n                </div>\n                <div class=\"form-group\" data-for=\"message\" hidden=\"hidden\">\n                    <textarea type=\"text\" class=\"form-control px-3\" name=\"message\" rows=\"7\" placeholder=\"Message\" data-form-field=\"Message\" hidden=\"hidden\"></textarea>\n                </div>\n                <span mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn\"><a href type=\"submit\" class=\"btn btn-form btn-primary\">SEND ME MORE INFO</a></span>\n            </form>\n        </div>\n    </div>\n    </div>\n</div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Form Background\" name=\"bgForm\">\n        <input type=\"color\" title=\"Form Color 1\" name=\"formColor1\" value=\"#ff7f9f\" condition=\"bgForm\">\n        <input type=\"color\" title=\"Form Color 2\" name=\"formColor2\" value=\"#55b4d4\" condition=\"bgForm\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-7096-1600x1066.jpg\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#073b4c\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-right\">\n<div class=\"row\">\n    <div class=\"mbr-white col-lg-8 col-md-7 content-container\">\n        <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">ATMA RETREAT</span></h1>\n        <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Dates: </b>Tuesday 2 Oct - Sunday 7 Oct<br><b>Place:</b> Femundsundet, 2440 Engerdal<br><b>Included: </b>Vegetarian buffet meals, accommodation in double rooms with private bathroom, yoga &amp; meditation classes&nbsp;<br><b>Sign up: </b>Send 1600,- (1400,- students)<br>to Vipps account #100008 (Trondheim Meditasjon &amp; Yoga)<br>or to bank account 8601 568 5141 <br>(mark payment with 'Atma - EMAIL')&nbsp;<br>To get more info, leave your details to the right.&nbsp;<br></p>\n    </div>\n    <div class=\"col-lg-4 col-md-5\">\n    <div class=\"form-container\">\n        <div mbr-form class=\"media-container-column\">\n            <div data-form-alert hidden class=\"align-center\">Thanks! We'll get back to you soon :)</div>\n            <form class=\"mbr-form\" action=\"info@tmy.no\" method=\"post\" name=\"Mobirise Form\">\n                <div data-for=\"name\">\n                    <div class=\"form-group\">\n                        <input type=\"text\" class=\"form-control px-3\" name=\"name\" data-form-field=\"Name\" placeholder=\"Name\" required>\n                    </div>\n                </div>\n                <div data-for=\"email\">\n                    <div class=\"form-group\">\n                        <input type=\"email\" class=\"form-control px-3\" name=\"email\" data-form-field=\"Email\" placeholder=\"Email\" required>\n                    </div>\n                </div>\n                <div data-for=\"phone\">\n                    <div class=\"form-group\">\n                        <input type=\"tel\" class=\"form-control px-3\" name=\"phone\" data-form-field=\"Phone\" placeholder=\"Phone\">\n                    </div>\n                </div>\n                <div class=\"form-group\" data-for=\"message\" hidden=\"hidden\">\n                    <textarea type=\"text\" class=\"form-control px-3\" name=\"message\" rows=\"7\" placeholder=\"Please tell us what your request is about\" data-form-field=\"Message\" hidden=\"hidden\"></textarea>\n                </div>\n                <span mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn\"><a href type=\"submit\" class=\"btn btn-form btn-primary\">SEND ME MORE INFO</a></span>\n            </form>\n        </div>\n    </div>\n    </div>\n</div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_anchor": "header15-cg",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -16877,6 +16877,697 @@
           "_isUserblock": true,
           "_cid": "r0pVPhIIxa",
           "_anchor": "footer2-c6",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "soundfest.html": {
+      "settings": {
+        "title": "Yoga SoundFest",
+        "meta_descr": "Sincere, striking, sublime - Atmasfera shares more than music. They hybridize ethnic elements, such as ancient mantras in Sanskrit, within a contemporary indie music frame. Diving into the yoga sounds - the forgotten section of yoga - will help you find a deep sense of relaxation within. ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".navbar": {
+              "min-height": "77px",
+              "transition": "all .3s",
+              "background": "@menuBgColor",
+              "& when (@transparent)": {
+                "background": "none"
+              },
+              "&.opened": {
+                "transition": "all .3s",
+                "background": "@menuBgColor !important"
+              },
+              ".dropdown-item": {
+                "padding": ".25rem 1.5rem"
+              },
+              ".navbar-collapse": {
+                "justify-content": "flex-end",
+                "z-index": "1",
+                "& when not (@showItems)": {
+                  "display": "none !important"
+                }
+              },
+              "&.collapsed": {
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".dropdown-menu": {
+                  "background": "transparent !important",
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": ".25rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "55%"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": ".25rem 1.5rem",
+                  "text-align": "center"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-top": ".5rem",
+                  "padding-bottom": ".5rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".dropdown-menu": {
+                  "background": "transparent !important",
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": ".25rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "55%"
+                  }
+                },
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3.8rem !important"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": ".25rem 1.5rem",
+                  "text-align": "center"
+                },
+                ".navbar-brand": {
+                  "flex-shrink": "initial",
+                  "word-break": "break-word"
+                },
+                ".navbar-toggler": {},
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-top": ".5rem",
+                  "padding-bottom": ".5rem"
+                }
+              },
+              "&.navbar-short": {
+                "background": "@menuBgColor !important",
+                "min-height": "60px",
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3rem !important"
+                  }
+                },
+                ".navbar-brand": {
+                  "padding": "0"
+                }
+              }
+            },
+            ".navbar-brand": {
+              "display": "flex",
+              "flex-shrink": "0",
+              "align-items": "center",
+              "margin-right": "0",
+              "padding": "0",
+              "transition": "all .3s",
+              "word-break": "break-word",
+              "z-index": "1",
+              ".navbar-caption": {
+                "line-height": "inherit !important"
+              },
+              ".navbar-logo a": {
+                "outline": "none"
+              }
+            },
+            ".dropdown-item.active,.dropdown-item:active": {
+              "background-color": "transparent"
+            },
+            ".navbar-expand-lg .navbar-nav .nav-link": {
+              "padding": "0"
+            },
+            ".nav-dropdown .link.dropdown-toggle": {
+              "margin-right": "1.667em",
+              "&[aria-expanded=\"true\"]": {
+                "margin-right": "0",
+                "padding": "0.667em 1.667em"
+              }
+            },
+            ".navbar.navbar-expand-lg .dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                ".dropdown-submenu": {
+                  "margin": "0",
+                  "left": "100%"
+                }
+              }
+            },
+            ".navbar .dropdown.open > .dropdown-menu": {
+              "display": "block"
+            },
+            "ul.navbar-nav": {
+              "flex-wrap": "wrap"
+            },
+            ".navbar-buttons": {
+              "text-align": "center"
+            },
+            "button.navbar-toggler": {
+              "outline": "none",
+              "width": "31px",
+              "height": "20px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "position": "relative",
+              "align-self": "center",
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".navbar-dropdown": {
+              "padding": ".5rem 1rem",
+              "& when (@sticky)": {
+                "position": "fixed"
+              }
+            },
+            "a.nav-link": {
+              "display": "flex",
+              "align-items": "center",
+              "justify-content": "center"
+            },
+            ".mbr-iconfont": {
+              "font-size": "1.5rem",
+              "padding-right": ".5rem"
+            },
+            ".icons-menu": {
+              "flex-wrap": "wrap",
+              "display": "flex",
+              "justify-content": "center",
+              "padding-left": "1rem",
+              "text-align": "center",
+              "span": {
+                "font-size": "20px",
+                "color": "#232323"
+              }
+            },
+            ".nav-link:hover, .dropdown-item:hover, .icons-menu .mbr-iconfont:hover": {
+              "color": "@itemsHoverColor !important"
+            }
+          },
+          "_name": "menu2",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" condition=\"showItems\" checked>\n        <select title=\"Social Icons\" name=\"iconsAmount\" condition=\"showIcons && showItems\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#f7f7f7\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n\n    <nav class=\"navbar navbar-dropdown\" mbr-class=\"{'navbar-fixed-top':sticky,\n                     'navbar-expand-lg':!collapsed,\n                     'collapsed':collapsed}\">\n        <div class=\"navbar-brand\">\n            <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                <a href=\"index.html\">\n                    <img src=\"@PROJECT_PATH@/assets/images/logo-black-long-306x122.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                </a>\n            </span>\n            <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-5\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\">Trondheim Meditasjon &amp; Yoga</a></span>\n        </div>\n        <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n      <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-black\" href=\"hva-skjer.html\" data-app-selector=\".nav-link,.dropdown-item\">VÅRE KURS</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"musikk.html\" data-app-selector=\".nav-link,.dropdown-item\">MUSIKK</a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"yoga-visdom.html\" data-app-selector=\".nav-link,.dropdown-item\">LIVSSTIL</a></li><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"om-oss.html#features6-1t\" data-app-selector=\".nav-link,.dropdown-item\">KONTAKT</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle text-black\" href=\"om-oss.html#features6-1t\" data-app-selector=\".nav-link,.dropdown-item\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ENGLISH</a><div class=\"dropdown-menu\"><a class=\"dropdown-item text-black\" href=\"whats-up.html\" data-app-selector=\".nav-link,.dropdown-item\">Timetable &amp; Info</a><a class=\"dropdown-item text-black\" href=\"music.html\" data-app-selector=\".nav-link,.dropdown-item\">Music</a><a class=\"dropdown-item text-black\" href=\"yoga-wisdom.html\" data-app-selector=\".nav-link,.dropdown-item\">Lifestyle</a><a class=\"dropdown-item text-black\" href=\"about-us.html\" data-app-selector=\".nav-link,.dropdown-item\">About Us &amp; Contact</a></div></li></ul>\n            <div class=\"icons-menu\" mbr-if=\"showIcons\">\n              <a href=\"tel:+4740168685\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-mobile\"></span>\n              </a>\n              <a href=\"mailto:info@tmy.no\" mbr-if=\"iconsAmount > 1\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-letter\"></span>\n              </a>\n              <a href=\"index.html\" mbr-if=\"iconsAmount > 2\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-globe-2\"></span>\n              </a>\n              <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 3\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-briefcase\"></span>\n              </a>\n              <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 4\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-briefcase\"></span>\n              </a>\n              <a href=\"https://mobirise.com\" target=\"_blank\" mbr-if=\"iconsAmount > 5\">\n                <span mbr-icon class=\"p-2 mbr-iconfont mbri-briefcase\"></span>\n              </a>\n            </div>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-md btn-white-outline\" href=\"om-oss.html\">KONTAKT</a></div>\n      </div>\n    </nav>\n</section>",
+          "_isUserblock": true,
+          "_cid": "r0TQCM4GAK",
+          "_anchor": "menu2-cx",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "H1": {
+              "color": "#ffffff"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "header2",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-1740x1080.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://player.vimeo.com/video/237196704?autoplay=0&loop=0\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">ATMASFERA<br>Norway 2018</span></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    NORWAY 2018</h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">29 SEPT - 7 OCT</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-danger\" href=\"atma.html#content4-ci\">CONCERT</a> <a class=\"btn btn-md btn-warning\" href=\"atma.html#content4-c9\">YOGA SOUNDFEST</a> <a class=\"btn btn-md btn-info\" href=\"atma.html#content4-ch\">ATMA RETREAT</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_cid": "r0TQCNweO2",
+          "_anchor": "header2-cy",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "h2": {
+              "text-align": "center",
+              "letter-spacing": "0.1em"
+            },
+            ".countdown-row": {
+              "width": "100%",
+              "text-align": "center"
+            },
+            ".lower-line": {
+              "text-align": "center"
+            },
+            ".mbr-form": {
+              "margin-bottom": "3rem"
+            },
+            ".form-control": {
+              "min-height": "2.7em",
+              "padding-top": "0rem",
+              "padding-bottom": "0rem",
+              "padding-left": "1.8rem",
+              "padding-right": "1.8rem",
+              "background-color": "white",
+              "border-radius": "0px",
+              "font-size": "18px"
+            },
+            ".input-form": {
+              "width": "480px",
+              "margin": "0 auto"
+            },
+            "a.btn": {
+              "flex": "0 0 auto",
+              "-webkit-flex": "0 0 auto",
+              "letter-spacing": "0.1em"
+            },
+            ".input-group-btn": {
+              "align-self": "center",
+              "-webkit-align-self": "center",
+              "z-index": "3",
+              ".btn": {
+                "padding-top": "15px",
+                "padding-bottom": "15px",
+                "padding-left": "30px",
+                "padding-right": "30px",
+                "margin": "0px",
+                "border-radius": "0px"
+              }
+            },
+            ".btn-black": {
+              "background-color": "black",
+              "border-color": "black",
+              "&:hover": {
+                "opacity": "0.6"
+              }
+            },
+            "a:not([href]):not([tabindex])": {
+              "color": "#fff"
+            },
+            "a.btn-white:not([href]):not([tabindex])": {
+              "color": "#333"
+            },
+            ".mbr-subscribe .input-group-btn": {
+              "display": "inline-block",
+              "button, a": {
+                "margin-top": "0 !important",
+                "margin-bottom": "0 !important"
+              }
+            },
+            "@media (max-width: 350px)": {
+              ".mbr-subscribe": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              "input[type=\"email\"]": {
+                "width": "100%",
+                "margin-bottom": "2px"
+              },
+              ".input-group-btn": {
+                "width": "100%",
+                ".btn": {
+                  "border-radius": "3px"
+                }
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".input-form": {
+                "width": "80%",
+                "margin": "0 auto"
+              },
+              ".input-group-btn a.btn": {
+                "width": "100%"
+              },
+              ".input-group-btn": {
+                "width": "calc(100% - 8px)",
+                "& button[type=\"submit\"]": {
+                  "width": "100%"
+                }
+              },
+              ".input-group": {
+                "display": "flex",
+                "flex-direction": "column",
+                "flex-wrap": "wrap",
+                "margin": "auto",
+                "max-width": "300px",
+                "input[type=\"email\"]": {
+                  "width": "100%",
+                  "margin-bottom": "3px"
+                },
+                "span": {
+                  "display": "inline",
+                  "padding-left": "0",
+                  "padding-right": "0"
+                }
+              },
+              ".input-group-btn button, .input-group-btn a": {
+                "margin-left": "0 !important",
+                "margin-right": "0 !important"
+              },
+              ".dot": {
+                "display": "none"
+              }
+            },
+            "@media (min-width: 769px)": {
+              ".mbr-subscribe > *": {
+                "margin": "0 0rem"
+              }
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#232323"
+            },
+            ".social-list": {
+              "justify-content": "center",
+              "display": "flex",
+              "padding-left": "0",
+              "margin-bottom": "25px",
+              "list-style": "none",
+              "flex-wrap": "nowrap",
+              ".mbr-iconfont-social": {
+                "font-size": "2rem",
+                "color": "white"
+              },
+              ".soc-item": {
+                "margin": "0 .5rem"
+              },
+              "a": {
+                "margin": "0",
+                "opacity": ".7",
+                "-webkit-transition": ".2s linear",
+                "transition": ".2s linear",
+                "&:hover": {
+                  "opacity": ".4"
+                }
+              },
+              "@media (max-width: 767px)": {
+                "justify-content": "center",
+                "-webkit-justify-content": "center"
+              }
+            },
+            ".number-wrap": {
+              "color": "@labelsColor",
+              "border-color": "rgba(255, 255, 255, 0.15)",
+              "position": "relative",
+              "display": "inline-block",
+              "padding": "0",
+              "text-align": "center",
+              "margin": "0",
+              "border-radius": "2px",
+              "max-width": "100%"
+            },
+            ".number": {
+              "font-family": "'Roboto Mono', monospace",
+              "font-style": "normal",
+              "font-weight": "100",
+              "font-size": "70px",
+              "text-transform": "none",
+              "letter-spacing": "-2px",
+              "word-spacing": "0",
+              "line-height": "1.3",
+              "color": "@numbersColor",
+              "@media (max-width: 769px)": {
+                "font-size": "55px"
+              }
+            },
+            ".period": {
+              "margin-top": "16px",
+              "display": "block",
+              "padding-top": "18px",
+              "border-top": "1px solid white",
+              "margin-bottom": "25px",
+              "font-family": "raleway",
+              "font-size": "12px",
+              "font-weight": "500",
+              "letter-spacing": "0.1em"
+            },
+            ".dot": {
+              "position": "absolute",
+              "top": "-10px",
+              "right": "-1em",
+              "width": "1em",
+              "display": "none",
+              "height": "5%",
+              "overflow": "hidden",
+              "font-style": "normal",
+              "font-weight": "700",
+              "font-size": "55px",
+              "line-height": "89.65px",
+              "text-transform": "none",
+              "letter-spacing": "0",
+              "word-spacing": "0",
+              "color": "@numbersColor"
+            },
+            ".countdown-cont": {
+              "max-width": "700px",
+              "margin": "0 auto",
+              "margin-bottom": "40px"
+            },
+            "@media (max-width: 575px)": {
+              ".main > div": {
+                "text-align": "center"
+              },
+              ".countdown-cont": {
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 543px)": {
+              ".number-wrap": {
+                "margin-bottom": "15px"
+              }
+            },
+            "@media (max-width: 550px)": {
+              ".col-xs-3": {
+                "padding-left": "0",
+                "padding-right": "0"
+              },
+              ".number-wrap": {
+                "min-width": "auto"
+              }
+            },
+            "@media (max-width: 440px)": {
+              ".number, .dot": {
+                "font-size": "40px"
+              }
+            },
+            "@media (max-width: 380px)": {
+              ".period": {
+                "font-size": "0.8rem"
+              }
+            },
+            ".countdown": {
+              "padding-top": "20px !important"
+            },
+            ".countdown > div": {
+              "flex": "0 0 80% !important",
+              "max-width": "80% !important",
+              "margin": "0 auto",
+              "justify-content": "space-between"
+            },
+            ".countdown > div > div": {
+              "flex": "0 0 25%",
+              "max-width": "25%",
+              "padding": "0px",
+              "@media (max-width: 320px)": {
+                "flex": "0 0 50%",
+                "max-width": "50%"
+              }
+            },
+            ".input-group-btn a.btn": {
+              "border-radius": "0px !important"
+            }
+          },
+          "_name": "header2",
+          "_customHTML": "<section class=\"Header2\" group=\"Headers\" plugins=\"countdown\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\" condition=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"text\" title=\"Countdown\" name=\"countdown\" value=\"2018/09/30 15:00\">\n        <input type=\"text\" inline title=\"Days\" name=\"daysCountdown\" value=\"DAYS\">\n        <input type=\"text\" inline title=\"Hours\" name=\"hoursCountdown\" value=\"HR\">\n        <input type=\"text\" inline title=\"Minutes\" name=\"minutesCountdown\" value=\"MIN\">\n        <input type=\"text\" inline title=\"Seconds\" name=\"secondsCountdown\" value=\"SEC\">\n        <input type=\"color\" title=\"Numbers Color\" name=\"numbersColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Labels Color\" name=\"labelsColor\" value=\"#cccccc\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\" selected>1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/dsc-5811-2000x1325.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#fff\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=l8UXhtqV6hU\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"rgb(7, 9, 21)\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"main container\">\n        <div class=\"row pt-2 justify-content-center\">\n            <div class=\"col-sm-10\">\n                <h1 class=\"mbr-fonts-style mbr-section-title mbr-white mbr-bold align-center\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Kick-off in</h1>\n            </div>\n            \n            <div class=\"countdown-row\">            \n                <div class=\"container countdown-cont align-center\">\n                    <div title=\"{{daysCountdown}}\" class=\"daysCountdown\"></div>\n                    <div title=\"{{hoursCountdown}}\" class=\"hoursCountdown\"></div> \n                    <div title=\"{{minutesCountdown}}\" class=\"minutesCountdown\"></div> \n                    <div title=\"{{secondsCountdown}}\" class=\"secondsCountdown\"></div>\n                    <div class=\"countdown pt-5 mt-2\" data-due-date=\"{{countdown}}\"></div>\n                </div>\n                \n                <div mbr-form class=\"align-center input-form\">\n                    <div data-form-alert hidden>Thanks!</div>\n                    <form class=\"mbr-form\" action=\"info@tmy.no\" method=\"post\" name=\"Mobirise Form\">\n                        <div class=\"mbr-subscribe input-group\">\n                            <input class=\"form-control\" type=\"email\" name=\"email\" placeholder=\"Email address...\" data-form-field=\"Email\" required>\n                            <span mbr-buttons mbr-theme-style=\"display-7\" class=\"input-group-btn mbr-section-btn\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a href type=\"submit\" class=\"btn  btn-black\">GET NOTIFIED!</a></span>\n                        </div>\n                    </form>\n                </div>   \n            </div>\n        </div>     \n\n        <div class=\"row justify-content-center\">\n            <div class=\"col-sm-8\">\n                <div class=\"social-list \" mbr-if=\"iconsCount > 0\">\n                    <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                        <a href=\"https://www.facebook.com/atmasfera\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                        <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                        <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                        <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                   <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                        <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                        <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        <div class=\"row justify-content-center\">        \n            <div class=\"col-sm-8\">\n                <p class=\"mbr-text links mbr-fonts-style lower-line mbr-white\" mbr-theme-style=\"display-7\" data-app-selector=\".links\"> By&nbsp;<a href=\"http://www.tmy.no\" target=\"_blank\" class=\"text-danger\">tmy.no</a></p>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-arrow-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "lawyerm4",
+          "_cid": "r0TQDjGNiy",
+          "_anchor": "header2-ds",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "*:focus": {
+              "outline": "none"
+            },
+            ".input-wrap": {
+              "padding-bottom": "2rem",
+              "input": {
+                "width": "100%",
+                "border": "none",
+                "background": "transparent",
+                "border-bottom-width": "2px",
+                "border-bottom-style": "solid",
+                "border-bottom-color": "@inputColor",
+                "color": "@inputColor",
+                "border-radius": "0"
+              }
+            },
+            "textarea": {
+              "width": "100%",
+              "border": "none",
+              "border-radius": "0",
+              "border-bottom-width": "2px",
+              "border-bottom-style": "solid",
+              "border-bottom-color": "@inputColor",
+              "background": "transparent",
+              "padding-right": "0",
+              "padding-left": "0",
+              "padding-bottom": "1px",
+              "color": "@inputColor",
+              "&:focus": {
+                "color": "@inputColor"
+              }
+            },
+            "::-webkit-input-placeholder": {
+              "color": "@inputColor"
+            },
+            "::-moz-placeholder": {
+              "color": "@inputColor"
+            },
+            ":-ms-input-placeholder": {
+              "color": "@inputColor"
+            },
+            ":-moz-placeholder": {
+              "color": "@inputColor"
+            },
+            ".soc-item": {
+              "display": "inline-block",
+              "margin": "0 .2rem",
+              ".socicon": {
+                "font-size": "1.5rem",
+                "color": "@iconsColor",
+                "opacity": "1",
+                "&:hover": {
+                  "opacity": ".5"
+                }
+              }
+            },
+            ".form-control:focus": {
+              "border": "none",
+              "border-bottom": "2px solid",
+              "border-bottom-color": "@inputColor",
+              "background": "transparent"
+            },
+            ".input-group-btn": {
+              "display": "block"
+            },
+            "@media (max-width: 767px)": {
+              ".first-column, .form-1": {
+                "text-align": "center"
+              }
+            }
+          },
+          "_name": "footer2",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Address\" name=\"showAddress\" checked>\n        <input type=\"checkbox\" title=\"Show Contacts\" name=\"showContacts\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <select title=\"Icons\" name=\"iconsCount\" condition=\"showIcons\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#000000\" condition=\"showIcons\">\n        <input type=\"checkbox\" title=\"Show Form\" name=\"showForm\" checked>\n        <input type=\"color\" title=\"Input Color\" name=\"inputColor\" value=\"#000000\" condition=\"showForm\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"row content justify-content-center mbr-black\">\n            <div class=\"col-12 col-md-6 col-lg-4 first-column pb-3\" mbr-if=\"showAddress || showContacts || showIcons\">\n                <div class=\"address\" mbr-if=\"showAddress\">\n                    <h3 class=\"address-title mbr-fonts-style pb-2\" mbr-theme-style=\"display-5\" data-app-selector=\".address-title, .address-block\">\n                        Adresse</h3>\n                    <p class=\"address-block mbr-fonts-style pb-3\" mbr-theme-style=\"display-7\" data-app-selector=\".address-title, .address-block\">Prinsens gate 53<br>Kjøpmannsgata 12<br>7013 Trondheim<br></p>\n                </div>\n                <div class=\"contacts\" mbr-if=\"showContacts\">\n                    <h3 class=\"contacts-title mbr-fonts-style pb-2\" mbr-theme-style=\"display-5\" data-app-selector=\".contacts-title, .contacts-block\">\n                        Kontakt</h3>\n                    <p class=\"contacts-block mbr-fonts-style pb-3\" mbr-theme-style=\"display-7\" data-app-selector=\".contacts-title, .contacts-block\">\n                        Email: <a href=\"mailto:info@tmy.no\" class=\"text-info\">info@tmy.no</a><br>\n                        Telefon: <a href=\"tel:004740168685\" class=\"text-info\">(+47) 401 68 685</a><br></p>\n                </div>\n                <div class=\"social-list align-left\" mbr-if=\"showIcons\">\n                    <h3 class=\"follow-title mbr-fonts-style pb-2\" mbr-theme-style=\"display-5\" data-app-selector=\".follow-title, .social-list\">\n                        Følg oss</h3>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.meetup.com/Trondheim-Meditasjon-Yoga/\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-meetup socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"iconsCount > 1\">\n                        <a href=\"https://www.facebook.com/meditasjon.i.trondheim\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"iconsCount > 2\">\n                        <a href=\"https://soundcloud.com/trondheim-meditasjon\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-soundcloud socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"iconsCount > 3\">\n                        <a href=\"https://www.instagram.com/trondheimmeditasjon/\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"iconsCount > 4\">\n                        <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"iconsCount > 5\">\n                        <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"form-block col-sm-12 col-md-5 col-lg-4\" mbr-if=\"showForm\">\n                <h3 class=\"form-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".form-title, .btn-row\">\n                    Kontakt oss</h3>\n                <div mbr-form class=\"form-1\">\n                    <div data-form-alert hidden>Takk for meldingen!</div>\n                    <form class=\"mbr-form\" action=\"info@tmy.no\" method=\"post\" name=\"My Mobirise Form\">\n                        <div class=\"input-wrap\" data-for=\"name\">\n                            <input type=\"text\" mbr-theme-style=\"display-7\" class=\"field\" name=\"name\" placeholder=\"Navn\" data-form-field=\"Name\" required>\n                        </div>\n                        <div class=\"input-wrap\" data-for=\"email\">\n                            <input type=\"text\" mbr-theme-style=\"display-7\" class=\"field\" name=\"email\" placeholder=\"Epost\" data-form-field=\"E-mail\" required>\n                        </div>\n                        <div class=\"input-wrap\" data-for=\"phone\" hidden=\"hidden\">\n                            <input type=\"text\" mbr-theme-style=\"display-7\" class=\"field\" name=\"phone\" placeholder=\"Telefon\" data-form-field=\"Phone\" hidden=\"hidden\">\n                        </div>\n                        <div class=\"form-group pb-2\" data-for=\"message\">\n                            <textarea type=\"text\" mbr-theme-style=\"display-7\" class=\"form-control\" name=\"message\" placeholder=\"Melding\" rows=\"1\" data-form-field=\"Message\"></textarea>\n                        </div>\n                        <div class=\"btn-row\">\n                            <span mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn\"><a href=\"https://mobirise.com/\" type=\"submit\" class=\"btn btn-form btn-black-outline\">Send</a></span>\n                        </div>\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "r0TQDl5xnV",
+          "_anchor": "footer2-dt",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
