@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TMY MB4 Newest",
-    "currentPage": "page23.html",
+    "currentPage": "julebord.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -21355,10 +21355,10 @@
         }
       ]
     },
-    "page23.html": {
+    "julebord.html": {
       "settings": {
-        "title": "Julebord",
-        "meta_descr": "Autentisk, nyskapenede, og harmonisk  - Atmasfera er mer enn bare musikk. Deres originale uttrykksform kombinerer etniske elementer fra de rike kulturene i India og Ukraina, i en ramme av moderne indie-stil. Atmasfera forener motsetninger som refleksjon og  ettertanke, med styrke og vitalitet på en gripende måte.",
+        "title": "Vegetar Julebord | Trondheim Meditasjon & Yoga",
+        "meta_descr": "Her får du nyte alle de kjente julesmakene, møte hyggelige mennesker, lytte til en avspennende julekonsert - ja, rett å slett oppleve en varm og genuin julestemning!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
