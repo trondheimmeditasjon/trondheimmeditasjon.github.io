@@ -1,0 +1,23 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_7771ed8c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
+.textstyle2 { text-align:left; }
+#container_29c31724 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:335px; background-color:#FFFFFF; background-image: url(rc_images/landscape_mountains_nature_clouds.jpg); background-position:top left; background-size:cover;  }
+#container_29c31724_padding { margin: 10px; display: block;  }
+#container_366cb74c { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:94px; background:none;  }
+#container_366cb74c_padding { margin: 10px; display: block;  }
+#container_7901585d { vertical-align: top; position:relative; display: inline-block; width:98%; min-height:141px; background:none;  }
+#container_7901585d_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:26pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  }
+#container_2ba0dbc0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#C0C0C0;  }
+#container_2ba0dbc0_padding { margin: 10px; display: block;  }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+@media only screen and (max-width: 360px)
+{
+		#container_7901585d { width:100%;  }
+}
