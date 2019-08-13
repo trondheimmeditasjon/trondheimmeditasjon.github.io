@@ -1,80 +1,50 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta name="referrer" content="no-referrer">
-
+<head>
     <meta name="robots" content="noindex, nofollow">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
-    <meta name="viewport" content="width=device-width, initial-scale=1,
-      minimum-scale=1, maximum-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no" />
+
     <title>Personvern side</title>
-    <link rel="stylesheet" media="screen, print" href="Knockout.css">
-    <link rel="stylesheet" media="screen, print" href="GothamSSm.css">
-    <link rel="stylesheet" media="screen, print"
-      href="choice-stylesheet.css">
-  </head>
-  <body>
-    <main class="content" id="content">
-      <header role="banner"> <img
-          src="logo-blue-long-color-304x121.png" alt="NPR logo"
-          class="npr-logo">
-        <h1 class="header-txt">Personvern-side<br>
-        </h1>
-        <div id="npr-rule" role="presentation"><span></span><span></span></div>
-      </header>
-      <section class="main-section">
-        <p> <font style="box-sizing: border-box; color: rgb(51, 51,
-            51); font-family: &quot;Gotham SSm&quot;, Helvetica, Arial,
-            sans-serif; font-size: 14px; font-style: normal;
-            font-variant-ligatures: normal; font-variant-caps: normal;
-            font-weight: 400; letter-spacing: normal; orphans: 2;
-            text-align: start; text-indent: 0px; text-transform: none;
-            white-space: normal; widows: 2; word-spacing: 0px;
-            -webkit-text-stroke-width: 0px; background-color: rgb(255,
-            255, 255); text-decoration-style: initial;
-            text-decoration-color: initial; vertical-align: inherit;">Ved
+
+    <link rel="stylesheet" media="screen, print" href="Knockout.css"/>
+    <link rel="stylesheet" media="screen, print" href="GothamSSm.css"/>
+    <link rel="stylesheet" media="screen, print" href="choice-stylesheet.css"/>
 
 
 
-            å velge "Ok, Jeg Godtar" nedenfor, samtykker du i at Trondheim
-            Meditasjons nettsted bruker informasjonskapsler, sporings-
-            og lagringsteknologi og informasjon om din enhet 
-            for å få tilgang til nettstedet vårt for å forbedre din
-            brukeropplevelse samt tilby funksjoner fra sosiale medier og
-            analysere vår trafikk.<span>&nbsp;</span></font><font
-            style="box-sizing: border-box; color: rgb(51, 51, 51);
-            font-family: &quot;Gotham SSm&quot;, Helvetica, Arial,
-            sans-serif; font-size: 14px; font-style: normal;
-            font-variant-ligatures: normal; font-variant-caps: normal;
-            font-weight: 400; letter-spacing: normal; orphans: 2;
-            text-align: start; text-indent: 0px; text-transform: none;
-            white-space: normal; widows: 2; word-spacing: 0px;
-            -webkit-text-stroke-width: 0px; background-color: rgb(255,
-            255, 255); text-decoration-style: initial;
-            text-decoration-color: initial; vertical-align: inherit;">Denne
 
 
-
-            informasjonen deles med sosiale medietjenester, sponsing,
-            analyse og andre tredjeparts tjenesteleverandører.</font> <a
-            href="./textonly/text_only_privacy_policy.html">Se detaljer</a>.
-        </p>
-        <div class="user-actions"> <button class="user-action
-            user-action--accept" id="accept"
-            onclick="setCookie('status', 'accepted',7)">OK, jeg godtar</button>
-          <button class="user-action user-action--revoke" id="revoke"
-            onclick="setCookie('status', '',7)">Trekk tilbake
-            godkjennelsen</button> <a class="user-action
-            user-action--text" id="textLink" href="#"
-            onclick="setCookie('status', 'rejected',7)">Avbryt og gå til
-            tekst-versjonen av nettsiden</a> </div>
-        <footer class="footer"> <a
-            href="./textonly/text_only_privacy_policy.html">Personvern
-            Policy</a>. </footer>
-      </section>
-    </main>
-    <script>
+</head>
+<body>
+<main class="content" id="content"> <header role="banner"> <img src="logo-blue-long-color-304x121.png" alt="NPR logo" class="npr-logo"/> 
+<h1 class="header-txt">Personvern-side</h1>
+<div id="npr-rule" role="presentation"><span></span><span></span></div>
+</header> <section class="main-section"> 
+<p> Ved å velge &quot;Ok, Jeg Godtar&quot; nedenfor, samtykker du i at Trondheim 
+  Meditasjons nettsted bruker informasjonskapsler, sporings- og lagringsteknologi 
+  og informasjon om din enhet for å få tilgang til nettstedet vårt for å forbedre 
+  din brukeropplevelse samt tilby funksjoner fra sosiale medier og analysere vår 
+  trafikk. Denne informasjonen deles med sosiale medietjenester, sponsing, analyse 
+  og andre tredjeparts tjenesteleverandører. <a href="./textonly/text_only_privacy_policy.html">Se 
+  detailer</a>. </p>
+<p class="acceptance-date" id="acceptanceDate"></p>
+<div class="user-actions"> 
+  <button class="user-action user-action--accept" id="accept" onclick="setCookie('status', 'accepted',7)">OK, 
+  jeg godtar</button>
+  <button class="user-action user-action--revoke" id="revoke" onclick="setCookie('status', '',7)">Trekk 
+  tilbake godkjennelsen</button>
+  <a class="user-action user-action--text" id="textLink" href="./textonly/text_only_privacy_policy.html" onclick="setCookie('status', 'rejected',7)" >Avbryt 
+  og gå til tekst-versjonen av nettsidene</a> </div>
+<footer class="footer"> 
+<p>Trondheim Meditasjons <a href="./cookies.html">Cookie 
+  Policy</a> and <a
+                    href="https://text.npr.org/s.php?sId=609131973">Personvern 
+  Policy</a>.</p>
+</footer> </section> </main> 
+</body>
+<script>
     function getCookie(cname)
     {
         var name = cname + "=";
