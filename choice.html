@@ -6,50 +6,29 @@
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no" />
-
     <title>Personvern side</title>
-
     <link rel="stylesheet" media="screen, print" href="Knockout.css"/>
     <link rel="stylesheet" media="screen, print" href="GothamSSm.css"/>
     <link rel="stylesheet" media="screen, print" href="choice-stylesheet.css"/>
-
-
-
-
-
 </head>
 <body>
 <main class="content" id="content"> <header role="banner"> <img src="logo-blue-long-color-304x121.png" alt="TMY logo" class="npr-logo"/>
-
         <h1 class="header-txt">Personvern-side</h1>
-
         <div id="npr-rule" role="presentation"><span></span><span></span></div>
     </header>
-
     <section class="main-section">
-	<p> Ved å velge &quot;Ok, Jeg Godtar&quot; nedenfor, samtykker du i at Trondheim 
-    Meditasjons nettsted bruker informasjonskapsler for å forbedre din brukeropplevelse. 
-    Denne informasjonen deles med sosiale medietjenester, analyse og andre tredjeparts 
-    tjenesteleverandører. <a href="./textonly/text_only_privacy_policy.html">Se 
-    detailer</a>. 
-	</p>
-
-        <p class="acceptance-date" id="acceptanceDate"></p>
-
-        <div class="user-actions">
+    <p> Ved å velge &quot;Ok, Jeg Godtar&quot; nedenfor, samtykker du i at vi bruker informasjons-kapsler for å forbedre din brukeropplevelse. Denne informasjonen deles med sosiale medietjenester, analyse og andre tredjeparts tjenesteleverandører. <a href="./textonly/text_only_privacy_policy.html">Se detailer</a>.</p>
+    <p class="acceptance-date" id="acceptanceDate"></p>
+    <div class="user-actions">
     <button class="user-action user-action--accept" id="accept" onclick="setCookie('status', 'accepted',7)">OK, 
     jeg godtar</button>
     <button class="user-action user-action--revoke" id="revoke" onclick="setCookie('status', '',7)">Trekk 
     tilbake godkjennelsen</button>
     <a class="user-action user-action--text" id="textLink" href="./textonly/text_only_privacy_policy.html" onclick="setCookie('status', 'rejected',7)" >Avbryt 
     og gå til tekst-versjonen av nettsidene</a> </div>
-
-
-        <footer class="footer">
-  <p>Trondheim Meditasjons <a href="./cookies.html">Cookie Policy</a> and <a
-                    href="./textonly/text_only_privacy_policy.html">Personvern 
-    Policy</a>.</p>
-        </footer>
+    <footer class="footer">
+    <p>Trondheim Meditasjons <a href="./cookies.html">Cookie Policy</a> and <a href="./textonly/text_only_privacy_policy.html">Personvern Policy</a>.</p>
+    </footer>
     </section>
 </main>
 
@@ -100,7 +79,6 @@
             document.getElementById('revoke').style.display = "none";
         }
     }
-
     function findGetParameter(parameterName) {
         var result = null,
             tmp = [];
@@ -111,9 +89,7 @@
         }
         return result;
     }
-
     var cookie_status = "";
-
      if (getCookie("status") == 'accepted'){
         cookie_status = "accepted";
         document.getElementById('accept').style.display = "none";
@@ -143,10 +119,5 @@
         document.getElementById('textLink').style.display = "block";
         document.getElementById('revoke').style.display = "none";
     }
-
-
-
-
-
 </script>
 </html>
