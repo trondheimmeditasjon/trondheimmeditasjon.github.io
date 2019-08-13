@@ -24,12 +24,10 @@
 <div id="npr-rule" role="presentation"><span></span><span></span></div>
 </header> <section class="main-section"> 
 <p> Ved å velge &quot;Ok, Jeg Godtar&quot; nedenfor, samtykker du i at Trondheim 
-  Meditasjons nettsted bruker informasjonskapsler, sporings- og lagringsteknologi 
-  og informasjon om din enhet for å få tilgang til nettstedet vårt for å forbedre 
-  din brukeropplevelse samt tilby funksjoner fra sosiale medier og analysere vår 
-  trafikk. Denne informasjonen deles med sosiale medietjenester, sponsing, analyse 
-  og andre tredjeparts tjenesteleverandører. <a href="./textonly/text_only_privacy_policy.html">Se 
-  detailer</a>. </p>
+  Meditasjons nettsted bruker informasjonskapsler, og informasjon om din enhet 
+  for å få tilgang til nettstedet for å forbedre din brukeropplevelse. Denne informasjonen 
+  deles med sosiale medietjenester, analyse og andre tredjeparts tjenesteleverandører. 
+  <a href="./textonly/text_only_privacy_policy.html">Se detailer</a>. </p>
 <p class="acceptance-date" id="acceptanceDate"></p>
 <div class="user-actions"> 
   <button class="user-action user-action--accept" id="accept" onclick="setCookie('status', 'accepted',7)">OK, 
@@ -57,7 +55,6 @@
         }
         return "";
     }
-
     function setCookie(cname, cvalue, exdays)
     {
         var d = new Date();
@@ -68,7 +65,6 @@
         document.cookie = cname + "=" + cvalue + "; " + expires;
         redirect(getCookie('status'));
     }
-
     function redirect(cvalue)
     {
         if (cvalue == 'accepted'){
@@ -78,20 +74,17 @@
                     return;
                 }
             }
-
             window.location.href = "index.htm";
         }
         if (cvalue == 'rejected'){
         window.location.href = "./textonly/text_only_index.html";
         }
-
         if (cvalue == ''){
             document.getElementById('accept').style.display = "block";
             document.getElementById('textLink').style.display = "block";
             document.getElementById('revoke').style.display = "none";
         }
     }
-
     function findGetParameter(parameterName) {
         var result = null,
             tmp = [];
@@ -102,9 +95,7 @@
         }
         return result;
     }
-
     var cookie_status = "";
-
      if (getCookie("status") == 'accepted'){
         cookie_status = "accepted";
         document.getElementById('accept').style.display = "none";
@@ -134,11 +125,6 @@
         document.getElementById('textLink').style.display = "block";
         document.getElementById('revoke').style.display = "none";
     }
-
-
-
-
-
 </script>
 
 </html>
