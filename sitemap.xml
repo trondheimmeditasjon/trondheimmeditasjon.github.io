@@ -54,12 +54,6 @@
 		<loc>https://www.trondheimmeditasjon.no/cookies.html</loc>
 	</url>
 	<url>
-		<loc>https://www.trondheimmeditasjon.no/atma.html</loc>
-	</url>
-	<url>
-		<loc>https://www.trondheimmeditasjon.no/atma-no.html</loc>
-	</url>
-	<url>
 		<loc>https://www.trondheimmeditasjon.no/julebord.html</loc>
 	</url>
 	<url>
@@ -70,5 +64,11 @@
 	</url>
 	<url>
 		<loc>https://www.trondheimmeditasjon.no/yoga.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/atma-en.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/atma.html</loc>
 	</url>
 </urlset>
