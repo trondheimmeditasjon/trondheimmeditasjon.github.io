@@ -1,4 +1,5 @@
-User-Agent: *
-Disallow: 
-
+User-agent: *
+Disallow:
 Sitemap: https://www.trondheimmeditasjon.no/sitemap.xml
+
+

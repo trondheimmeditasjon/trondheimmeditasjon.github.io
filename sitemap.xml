@@ -1,107 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://www.trondheimmeditasjon.no/</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/index.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/hva-skjer.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/yoga.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/musikk.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/yoga-visdom.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/om-oss.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/index-en.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/whats-up.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/music.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/yoga-wisdom.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/about-us.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/bhakti.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/retreat.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/vegetar.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/email-signup.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/personvernerklaering.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/vegetarian.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.trondheimmeditasjon.no/cookies.html</loc>
-  <lastmod>2019-08-12T11:13:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/index.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/hva-skjer.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/musikk.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/retreat.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/vegetar.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/email-signup.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/om-oss.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/yoga-visdom.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/vegan.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/index-en.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/whats-up.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/music.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/yoga-wisdom.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/about-us.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/vegetarian.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/corpretreat.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/personvernerklaering.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/cookies.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/atma.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/atma-no.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/julebord.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/christmas.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/bhakti.html</loc>
+	</url>
+	<url>
+		<loc>https://www.trondheimmeditasjon.no/yoga.html</loc>
+	</url>
 </urlset>
