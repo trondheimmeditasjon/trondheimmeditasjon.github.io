@@ -14063,6 +14063,107 @@ body {
   text-align: center;
   color: #9e9e9e;
 }
+.cid-rkpNlevxBM {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/simon-wilkes-691856-unsplash-1100x342.jpg");
+}
+.cid-rzGu5S1tNi {
+  background: #fdfdfd;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #fdfdfd, #ffffff);
+}
+.cid-rzGu5S1tNi .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rzGu5S1tNi .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rkpNq7DTNd {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rkpNq7DTNd .mbr-text,
+.cid-rkpNq7DTNd blockquote {
+  color: #767676;
+}
+.cid-rzGrYuCeKT {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rzGrYuCeKT .counter-container {
+  color: #767676;
+}
+.cid-rzGrYuCeKT .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rzGrYuCeKT .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rzGrYuCeKT .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: none;
+  border: 1px solid #149dcc;
+  color: #149dcc;
+  content: '✓';
+}
+.cid-rzGs0qTgwF {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rzGs0qTgwF .mbr-text,
+.cid-rzGs0qTgwF blockquote {
+  color: #767676;
+}
+.cid-rkpUf6DeLp {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rkpUf6DeLp .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rkpUf6DeLp .section-text {
+  padding: 2rem 0;
+}
+.cid-rkpUf6DeLp .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rkpUf6DeLp .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rzGtfxWaTz {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
 .cid-rkpNdKz9MP {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -14088,7 +14189,7 @@ body {
 }
 .cid-rkpMRdHjI4 {
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rkpMRdHjI4 .counter-container {
@@ -14122,48 +14223,6 @@ body {
   color: #149dcc;
   content: '✓';
 }
-.cid-rkpUf6DeLp {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rkpUf6DeLp .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rkpUf6DeLp .section-text {
-  padding: 2rem 0;
-}
-.cid-rkpUf6DeLp .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rkpUf6DeLp .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rkpUcepyUC {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rkpNlevxBM {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/simon-wilkes-691856-unsplash-1100x342.jpg");
-}
-.cid-rkpNq7DTNd {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rkpNq7DTNd .mbr-text,
-.cid-rkpNq7DTNd blockquote {
-  color: #767676;
-}
 .cid-rkpUgaDLZP {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -14187,7 +14246,7 @@ body {
     width: 100% !important;
   }
 }
-.cid-rkpU8Uwa8S {
+.cid-rzGBkUbch0 {
   padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
@@ -14261,11 +14320,6 @@ body {
   .cid-rkpUh6vMkt .inner-container {
     width: 100% !important;
   }
-}
-.cid-rkpUaumQlD {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
 }
 .cid-rjmacwkoci {
   padding-top: 60px;
